@@ -1,10 +1,12 @@
 {{ partial "head" . }}
-{{ partial "nav" .Parent }}
-  <div class="mw6 center ph3 pv4">
-    <h1 class="f2 lh-title b mb3">{{.Title}}</h1>
-    <div class="cms mw6">
-      <p>{{ .Description }}</p>
-      {{ if .Params.image }}<img src="{{ .Params.image }}" alt="{{ .Title }}" />{{ end }}
-      {{ .Content }}
+<div class="wrapper">
+  <div class="container">
+    {{ partial "nav" .Parent }}
+      <div class="text-body">
+        <div class="title">{{.Title}}</div>
+        <div class="">
+          {{ .Content }}
+        </div>
+      </div>
     </div>
-  </div>
+</div>

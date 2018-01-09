@@ -1,10 +1,12 @@
 body{
   font-family: 'EB Garamond', serif;
+  font-size: 18px;
   background: #D7EDB9
 
 }
 .header {
   width:  300px;
+  margin-bottom: 20px;
 }
 .hide{
   display: none
@@ -15,19 +17,20 @@ body{
 }
 .home-img{
   width: 100%;
-
 }
+
 .container {
   display: flex;
 }
 .nav-bar {
   padding: 0 10px;
-
+  line-height: 1.8;
 }
 .wrapper {
-    max-width: 800px;
+    max-width: 900px;
     padding: 0 15px;
     margin: 0 auto;
+    margin-top: 60px;
 }
 
 li {
@@ -49,4 +52,12 @@ li:before {
 }
 .underline {
   text-decoration: underline;
+}
+.title {
+  font-size: 24px;
+}
+
+.text-body{
+  margin-left:10px;
+
 }

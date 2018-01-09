@@ -1,5 +1,5 @@
 body{
-  font-family: Garamond, serif;
+  font-family: 'EB Garamond', serif;
   background: #D7EDB9
 
 }
@@ -12,4 +12,8 @@ body{
 
 .show{
   display: block
+}
+.home-img{
+  width: 500px;
+
 }

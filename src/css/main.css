@@ -103,6 +103,9 @@ img {
       margin-top: 10px;
 
     }
+    .home-img{
+      margin-top:20px;
+    }
     .container {
         flex-direction: column;
     }

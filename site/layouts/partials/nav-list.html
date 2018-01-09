@@ -1,6 +1,6 @@
 {{$cat := .category}}
 <ul id={{add .category "-list"}} class="hide">
-  {{ range where .context.Data.Pages "Type" "post" }}
+  {{ range where .context.Data.Pages "Type" "work" }}
   	{{ if eq .Params.Category $cat }}
   		<li>
         <a href="{{ .Permalink }}" class="no-link">

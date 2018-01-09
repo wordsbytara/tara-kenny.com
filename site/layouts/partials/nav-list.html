@@ -3,7 +3,7 @@
   {{ range where .context.Data.Pages "Type" "post" }}
   	{{ if eq .Params.Category $cat }}
   		<li>
-        <a href="{{ .Permalink }}" class="">
+        <a href="{{ .Permalink }}" class="no-link">
           {{if gt (len .Title) 25}}
           	<span class="">{{ add (slicestr .Title 0 25) ".."}} <span/>
           {{else}}

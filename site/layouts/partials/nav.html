@@ -3,21 +3,22 @@
 	<object type="image/svg+xml" data="/img/header.svg" class="header">
 	</object>
 	<!-- Primary Nav -->
-	<div class="about-btn">About</div>
-
-	<div onclick="toggleFiction()" id="fiction-nav-btn" class="about-btn">Fiction</div>
-		{{  partial "nav-list" (dict "context" . "category" "fiction")}}
-
-	<div onclick="toggleInterviews()" id="interviews-nav-btn" class="about-btn">Interviews</div>
-	{{  partial "nav-list" (dict "context" . "category" "interviews")}}
+	<div class="about-btn"><a class="no-link" href="/">About</a></div>
 
 	<div onclick="toggleEssays()" id="essays-nav-btn" class="about-btn">Essays</div>
 	{{  partial "nav-list" (dict "context" . "category" "essays")}}
 
+	<div onclick="toggleInterviews()" id="interviews-nav-btn" class="about-btn">Interviews</div>
+	{{  partial "nav-list" (dict "context" . "category" "interviews")}}
+
+	<div onclick="toggleFiction()" id="fiction-nav-btn" class="about-btn">Fiction</div>
+		{{  partial "nav-list" (dict "context" . "category" "fiction")}}
+
+
 	<div onclick="toggleAcademic()" id="academic-nav-btn" class="about-btn">Academic</div>
 	{{  partial "nav-list" (dict "context" . "category" "academic")}}
 
-	<div onclick="toggleOther()" class="about-btn">Other</div>
+	<div onclick="toggleOther()" id="other-nav-btn" class="about-btn">Other</div>
 	{{  partial "nav-list" (dict "context" . "category" "other")}}
 
 </nav>

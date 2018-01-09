@@ -12,16 +12,16 @@ if (window.netlifyIdentity) {
 let  toggleElement = (id) => {
     var element = document.getElementById(id);
   if (element.classList) {
-      element.classList.toggle("hide");
+      element.classList.toggle("show");
   } else {
       // For IE9
       var classes = element.className.split(" ");
-      var i = classes.indexOf("hide");
+      var i = classes.indexOf("show");
 
       if (i >= 0)
           classes.splice(i, 1);
       else
-          classes.push("hide");
+          classes.push("show");
           element.className = classes.join(" ");
   }
 }

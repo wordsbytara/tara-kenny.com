@@ -1,13 +1,12 @@
 
 {{$cat := .category}}
-<div id={{add .category "-list"}}>
+<div id={{add .category "-list"}} class="hide">
   {{ range where .context.Data.Pages "Type" "post" }}
   	{{ if eq .Params.Category $cat }}
-  		<div class="">
+  		<div>
         <a href="{{ .Permalink }}" class="">
 
-        	<span class="">{{ .Title }} <span/
-            >
+        	<span class="">{{ .Title }} <span/>
         </a>
         <span class="">{{ .Date.Format "2006" }}</span>
   		</div>

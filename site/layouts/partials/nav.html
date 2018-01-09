@@ -1,26 +1,24 @@
 <nav class="">
 	<!-- Logo -->
-
+	<object type="image/svg+xml" data="img/header.svg" class="header">
+	  Kiwi Logo <!-- fallback image in CSS -->
+	</object>
 	<!-- Primary Nav -->
-	<ul class="">
-		<li><span class="about-btn">About</span></li>
+	<div class="about-btn">About</div>
 
-		<li><span onclick="toggleFiction()" class="about-btn">Fiction</span></li>
-			{{  partial "nav-list" (dict "context" . "category" "fiction")}}
+	<div onclick="toggleFiction()" class="about-btn">Fiction</div>
+		{{  partial "nav-list" (dict "context" . "category" "fiction")}}
 
-		<li><span onclick="toggleInterviews()" class="about-btn">Interviews</span></li>
-		{{  partial "nav-list" (dict "context" . "category" "interviews")}}
+	<div onclick="toggleInterviews()" class="about-btn">Interviews</div>
+	{{  partial "nav-list" (dict "context" . "category" "interviews")}}
 
-		<li><span onclick="toggleEssays()" class="about-btn">Essays</span></li>
-		{{  partial "nav-list" (dict "context" . "category" "essays")}}
+	<div onclick="toggleEssays()" class="about-btn">Essays</div>
+	{{  partial "nav-list" (dict "context" . "category" "essays")}}
 
-		<li><span onclick="toggleAcademic()" class="about-btn">Academic</span></li>
-		{{  partial "nav-list" (dict "context" . "category" "academic")}}
+	<div onclick="toggleAcademic()" class="about-btn">Academic</div>
+	{{  partial "nav-list" (dict "context" . "category" "academic")}}
 
-		<li><span onclick="toggleOther()" class="about-btn">Other</span></li>
-		{{  partial "nav-list" (dict "context" . "category" "other")}}
-	</ul>
+	<div onclick="toggleOther()" class="about-btn">Other</div>
+	{{  partial "nav-list" (dict "context" . "category" "other")}}
 
 </nav>
-
-<script src=""></script>

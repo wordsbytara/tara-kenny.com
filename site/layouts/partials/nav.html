@@ -5,16 +5,16 @@
 	<!-- Primary Nav -->
 	<div class="about-btn">About</div>
 
-	<div onclick="toggleFiction()" class="about-btn">Fiction</div>
+	<div onclick="toggleFiction()" id="fiction-nav-btn" class="about-btn">Fiction</div>
 		{{  partial "nav-list" (dict "context" . "category" "fiction")}}
 
-	<div onclick="toggleInterviews()" class="about-btn">Interviews</div>
+	<div onclick="toggleInterviews()" id="interviews-nav-btn" class="about-btn">Interviews</div>
 	{{  partial "nav-list" (dict "context" . "category" "interviews")}}
 
-	<div onclick="toggleEssays()" class="about-btn">Essays</div>
+	<div onclick="toggleEssays()" id="essays-nav-btn" class="about-btn">Essays</div>
 	{{  partial "nav-list" (dict "context" . "category" "essays")}}
 
-	<div onclick="toggleAcademic()" class="about-btn">Academic</div>
+	<div onclick="toggleAcademic()" id="academic-nav-btn" class="about-btn">Academic</div>
 	{{  partial "nav-list" (dict "context" . "category" "academic")}}
 
 	<div onclick="toggleOther()" class="about-btn">Other</div>

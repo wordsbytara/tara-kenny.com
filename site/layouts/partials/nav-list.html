@@ -1,15 +1,18 @@
 
 {{$cat := .category}}
-<div id={{add .category "-list"}} class="hide">
+<ul id={{add .category "-list"}} class="hide">
   {{ range where .context.Data.Pages "Type" "post" }}
   	{{ if eq .Params.Category $cat }}
-  		<div>
+  		<li>
         <a href="{{ .Permalink }}" class="">
-
-        	<span class="">{{ .Title }} <span/>
+          {{if gt (len .Title) 25}}
+          	<span class="">{{ add (slicestr .Title 0 25) ".."}} <span/>
+          {{else}}
+          	<span class="">{{ .Title }} <span/>
+          {{end}}
         </a>
-        <span class="">{{ .Date.Format "2006" }}</span>
-  		</div>
+        <span class=""> &nbsp;{{ .Date.Format "2006" }}</span>
+  		</li>
   		{{end}}
   {{ end }}
-</div>
+</ul>

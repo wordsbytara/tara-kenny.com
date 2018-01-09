@@ -10,9 +10,13 @@ if (window.netlifyIdentity) {
 }
 
 let  toggleElement = (id) => {
-    var element = document.getElementById(id);
+    var elementId = id+"-list"
+    var linkId = id+"-nav-btn"
+    var element = document.getElementById(elementId);
+    var link = document.getElementById(linkId);
   if (element.classList) {
       element.classList.toggle("show");
+      link.classList.toggle("underline");
   } else {
       // For IE9
       var classes = element.className.split(" ");
@@ -27,21 +31,21 @@ let  toggleElement = (id) => {
 }
 
 window.toggleAcademic = function() {
-  toggleElement("academic-list")
+  toggleElement("academic")
 }
 
 window.toggleEssays = function() {
-  toggleElement("essays-list")
+  toggleElement("essays")
 }
 
 window.toggleFiction = function() {
-  toggleElement("fiction-list")
+  toggleElement("fiction")
 }
 
 window.toggleOther = function() {
-  toggleElement("other-list")
+  toggleElement("other")
 }
 
 window.toggleInterviews = function() {
-  toggleElement("interviews-list")
+  toggleElement("interviews")
 }

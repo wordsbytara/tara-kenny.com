@@ -4,13 +4,24 @@
 
 	<!-- Primary Nav -->
 	<ul class="">
-		<li><a href="/about" class="pa3 no-underline db">About</a></li>
+		<li><span class="about-btn">About</span></li>
 
-		<li><a href="/interviews" class="pa3 no-underline db">Interviews</a></li>
+		<li><span onclick="toggleFiction()" class="about-btn">Fiction</span></li>
+			{{  partial "nav-list" (dict "context" . "category" "fiction")}}
 
-		<li><a href="/academic" class="pa3 no-underline db">Academic</a></li>
+		<li><span onclick="toggleInterviews()" class="about-btn">Interviews</span></li>
+		{{  partial "nav-list" (dict "context" . "category" "interviews")}}
 
-		<li><a href="/other" class="pa3 no-underline db">Other</a></li>
+		<li><span onclick="toggleEssays()" class="about-btn">Essays</span></li>
+		{{  partial "nav-list" (dict "context" . "category" "essays")}}
+
+		<li><span onclick="toggleAcademic()" class="about-btn">Academic</span></li>
+		{{  partial "nav-list" (dict "context" . "category" "academic")}}
+
+		<li><span onclick="toggleOther()" class="about-btn">Other</span></li>
+		{{  partial "nav-list" (dict "context" . "category" "other")}}
 	</ul>
 
 </nav>
+
+<script src=""></script>

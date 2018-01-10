@@ -1,8 +1,7 @@
 ---
 title: Banis and Black Magic with Achi
-date: 2016-12-17T15:04:10.000Z
+date: 2017-12-18T10:04:10-05:00
 category: essays
-image: ''
 ---
 _Originally published in Kajal, December 18 2017_
 

@@ -77,7 +77,7 @@ I have a big, journal-style Google Doc of Sri Lanka notes that I’m hoping to m
 
 I’ve also been thinking about doing a feminist Mills & Boon romance novel, and a podcast with my boyfriend about adventuring into the occult, with a dose of cynicism. That should keep me busy for a while.
 
-**Do you have any advice for emerging writers? **
+Do you have any advice for emerging writers?
 
 Read widely! You can develop your writing skills along the way, but you’ve got to be continuously engaging and learning to have anything of value to say.
 
@@ -93,13 +93,13 @@ I’m obsessed with the lyrics of [Brujas](https://www.youtube.com/watch?v=iUcAP
 
 I’ve also been repeat watching [this video](https://www.youtube.com/watch?v=mZNZsUB9N74) of Munroe Bergdorf lately. She just makes so much sense, and I really respect how she fields basic and defensive questions with generosity and sincerity.
 
-**What are you currently listening to? **
+What are you currently listening to?
 
 I’ve been listening to the SZA album for months, also Kamaiyah, Kelela, Jhene Aiko, Dej Loaf, and [this cute Italian mixtape](https://www.youtube.com/watch?v=CAar8ngB-WE), because I’m going to Italy next month.
 
 This young Sudanese rapper from Dandenong called Riak was mentioned in The Monthly the other day and I am vibing [this song](https://www.youtube.com/watch?v=qOVKzjJruLY). 
 
-**What are you currently reading?**
+What are you currently reading?
 
 I just finished Elena Ferrante’s _My Brilliant Friend_, and now I’m reading a book of short stories called _Tenth of December_ by George Saunders, both of which I’d highly recommend! I also recently read two novels by young Australians: Jennifer Down’s _Our Magic Hour_ and Rajith Savanadasa’s _Ruins_. It was both inspiring and intimidating to know that those authors are vaguely the same age as me.
 

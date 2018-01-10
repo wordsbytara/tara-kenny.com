@@ -1,11 +1,13 @@
 ---
 title: Workplace Harassment isn’t just a Hollywood Thing
-date: 2017-10-18T10:04:10-04:00
+date: 2017-10-18T14:04:10.000Z
 category: essays
 ---
 [_Originally published in Kajal, October 18 2017_](https://www.kajalmag.com/sexual-harassment-me-too/)
 
-![](/img/metoo.jpg)
+Artwork by Noreen Reza
+
+![null](/img/metoo.jpg)
 
 Over the past couple of weeks, the world has looked on, appalled but–if you’re a woman well-versed in the depravity of men–perhaps not entirely surprised, as a seemingly unending stream of “allegations” of sexual harassment and rape against influential Hollywood producer Harvey Weinstein have erupted into the public conscious.
 

@@ -11,7 +11,7 @@ Artwork by Noreen Reza
 
 Over the past couple of weeks, the world has looked on, appalled but–if you’re a woman well-versed in the depravity of men–perhaps not entirely surprised, as a seemingly unending stream of “allegations” of sexual harassment and rape against influential Hollywood producer Harvey Weinstein have erupted into the public conscious.
 
-From the New York Times’ commendable initial enquiry; to horror stories shared by actresses including Ashley Judd, Gwyneth Paltrow, Angelina Jolie, Rose McGowan, and Cara Delevingne, as well as multiple of Weinstein’s former employees and colleagues; and Rose McGowan’s captivating Twitter take down of the Hollywood bro culture petri dish that allowed Weinstein’s abuse to fester relatively unchecked, the evidence is undeniable.
+From the [New York Times' commendable initial enquiry](https://www.nytimes.com/2017/10/05/us/harvey-weinstein-harassment-allegations.html?_r=0); to horror stories shared by actresses including Ashley Judd, Gwyneth Paltrow, Angelina Jolie, Rose McGowan, and Cara Delevingne, as well as multiple of Weinstein’s former employees and colleagues; and [Rose McGowan’s captivating Twitter take down](https://twitter.com/rosemcgowan/status/916022471165276161) of the Hollywood bro culture petri dish that allowed Weinstein’s abuse to fester relatively unchecked, the evidence is undeniable.
 
 Reading the victims’ harrowing accounts, I was reminded of my own early forays into the workforce as a young woman.
 
@@ -25,7 +25,7 @@ In that instance I reported the client’s behaviour and hoped that the company 
 
 But what would I know? I’m overreacting. I’m lucky nothing worse ever happened. I should have known that going after some pocket money as a teenager meant giving men old enough to be my father a licence to demean me, knowing full well it was unlikely I would retaliate.
 
-While the men I encountered were by no means powerful Harvey Weinsteins, the feeling of futility expressed in a memo written by his former employee Lauren O’Connor are all too familiar: “I am a 28 year old woman trying to make a living and a career. Harvey Weinstein is a 64 year old, world famous man and this is his company. The balance of power is me: 0, Harvey Weinstein: 10.”
+While the men I encountered were by no means powerful Harvey Weinsteins, the feeling of futility expressed in a [memo written by his former employee Lauren O’Connor](https://www.nytimes.com/2017/10/05/us/harvey-weinstein-harassment-allegations.html?_r=0) are all too familiar: _“I am a 28 year old woman trying to make a living and a career. Harvey Weinstein is a 64 year old, world famous man and this is his company. The balance of power is me: 0, Harvey Weinstein: 10.”_
 
 When your immediate financial security or long term career prospects are contingent on maintaining pleasantries with your sexual harasser, as is the case for so many young women, your options for recourse are starkly narrowed.
 

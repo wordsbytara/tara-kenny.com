@@ -1,9 +1,9 @@
 ---
 title: The Vanduuras
-date: 2017-10-16T18:03:27-04:00
+date: 2017-10-16T22:03:27.000Z
 category: fiction
 ---
-[_First published in Scum Magazine, October 16 2017 _](https://www.scum-mag.com/the-vanduuras/)
+*[First published in Scum Magazine, October 16 2017](https://www.scum-mag.com/the-vanduuras/)*
 
 ![](/img/20161203_192826-1050x788.jpg)
 

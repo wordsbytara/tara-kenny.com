@@ -1,7 +1,7 @@
 ---
 title: A Conversation with Tara Kenny
-date: 2017-09-25T23:18:35-04:00
-category: non-fiction
+date: 2017-09-26T03:18:35.000Z
+category: interviews
 ---
 [_First published in Liminal, September 25 2017_](https://www.liminalmag.com/blog/tara-kenny?rq=tara%20kenny)
 

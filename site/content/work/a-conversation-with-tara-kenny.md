@@ -19,7 +19,7 @@ My interest in IR is definitely driven by the desire to understand how people ar
 
 My current employer literally slid into my DMs on Instagram! My work for her is very diverse. Anything from a campaign for an organisation that improves the lives of people with disability, to designing a personality for a virtual assistant powered by artificial intelligence, to running a Byron Bay cafe Instagram. Artificial intelligence and the experiences of people with disability are two extremely important areas to which I’ve previously paid minimal attention, so it’s been interesting to learn more. I want to have a career where I apply and develop my skills towards interesting and meaningful projects with a greater social good. A wage slave with a conscience!
 
-**You’re also a prolific writer. Where does your writing practice fit amongst your other work? **
+__You’re also a prolific writer. Where does your writing practice fit amongst your other work?__
 
 I use writing to work through my feelings and life experiences in a way that’s (hopefully) widely relevant and interesting to people who aren’t me. How that fits into my career and whether to approach writing as my livelihood or a lifelong interest is something I definitely struggle with.
 

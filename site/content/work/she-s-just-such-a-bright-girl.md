@@ -1,0 +1,31 @@
+---
+title: She's Just Such a Bright Girl
+date: 2015-10-01T18:34:16-04:00
+category: essays
+---
+_Originally published in Ladies of Leisure, October 2015_
+
+![](/img/clueless-cher-and-pen_600.jpg)
+
+As a small child, I was gifted and talented. I mean to say, I participated in programs with acronyms like GATEWAYS – Gifted and Talented Education Ways – and TOM – Tournament of the Minds – which essentially involved precocious baby nerds dressing up in costumes and earnestly solving riddles to a room full of weathered parents. I was the kind of intolerable child who asked my already overworked state school teachers for extra work. I was on the debating team, a member of chess club, and a Team Vic runner. Adults were always commenting that I was “just such a bright girl.” Success felt certain and came as easily as sprinting around an athletics track and not stopping, even when I felt like I was going to throw up the hot dog and sherbet bombs I had for little lunch. 
+
+I can’t claim that overbearing parents fuelled my twelve-year-old ambition. It was I alone who decided that the local high school just wouldn’t do and enrolled myself in scholarship exams for private schools. I wanted to abandon the common people to hob knob with five year olds in ties and patrons of the new school buildings in pearls. High school is where I discovered \*boys\* and \*make up\* and spent six years intermittently undoing and redoing my obnoxiously high ponytail and accompanying quiff in the bathroom mirrors and designing a fun MySpace page. Regardless, I managed a near perfect ENTER score and breezed into my first choice of university course. 
+
+Now I am 25 and it feels less certain that the future will be shiny. The plastic trophies and glowing SAC scores that once promised great things are increasingly irrelevant in this unfamiliar, post-playground era. While the dulling of my girlhood desire to be rich and beautiful has had a freeing effect, a persistent sense of anxiety about the need to “make something of my life” remains. But what the devil does that even mean?
+
+Many of my friends, also one or two university degrees and moderately successful failed relationships deep, share my confusion and rising panic. We keep hearing platitudes about how it’s time to get serious, but we don’t want to just yet (or ever). While our peers commit to the nine to five grind, we cling to slightly glorified versions of the retail and babysitting jobs we’ve had since high school. The only difference is that when we’re out in public pushing a pram we no longer have to contend with judgemental looks from older women in the street. We feel like kids, but look old enough to have our own. While we are largely unprepared for grown up life, the hangovers are getting worse and the Centrelink money is running out. We’re tired of going out all the time, but staying in is just so dull. To cite the Ladies of Pleasure DJs, we are floating anchorless through the abyss, caught somewhere “between YOLO and yo-pro.” What will become of us?
+
+Focusing on my studies allows me to postpone major life decisions and hold onto the dream that one day I will graduate and become a high-powered career lady who can afford to pay rent and buy my own ciggies. During the first semester of my Master’s degree I regularly spend Saturday nights in the library, frantically Wikipedia-ing questions that everybody else seems to know the answer to. I am haunted by the gnawing fear that I missed something of value while I was doing my makeup in the high school bathrooms for six years and now will never be smart enough. I get high distinctions in every subject but my heart rate just won’t slow down. 
+
+The feeling that I really ought to make the most of my opportunities stems 
+from an understanding of just how many I have had. I think of my father, one of twelve Catholic siblings raised in what might as well have been potato famine era Ireland, and my mother, marooned in suburban Australia with two children after abandoning her law degree to flee soon to be war torn Sri Lanka at my age. The words of Italian migrant father Nino Cinque, quoted in Helen Garner’s Joe Cinque’s Consolation, come to mind: “You try to send your son into school, to change job – to don’t do what you are doing, because you know your job is danger. You send your kids to school, to university. You suffer your life to help your sons.” But, for what?
+
+It is not only the children of migrants who carry the weight of opportunity. A friend who has recently taken up teaching confides the reasons she didn’t do it sooner: a perceived lack of money and prestige. Her aversion was formed in primary school, during an activity where students were shown a list of professions and their corresponding incomes, with teachers ranked somewhere down the bottom. While the intended purpose of this exercise was quickly forgotten, its effects on her malleable childhood brain were harder to shake. 
+
+I go out to dinner with my sister, Anusha, and her partner, Stewart – both lawyers – and discuss my recent failure in a job interview organised by Stewart for a position at The Book Grocer. I feel like a delinquent teenager being taken out to dinner by her concerned and successful parents in a coming of age film. This disappointment brings to mind that time I was rejected for a position as manager of the book department at Savers. My Literature major is less relevant to categorising old Marian Keyes novels than one might think. The prospect of seeing out my days stacking bookshelves for money and finding personal fulfilment through creative side projects appeals as both romantic and potentially achievable. Imagine how much time I would have to do yoga, host dinner parties with intricate menus and sparkling conversation, and self publish zines.
+
+Stewart is sceptical. “There will come a time when you will want to contribute more to society than is possible by working at The Book Grocer,” he assures me.
+
+A long silence follows. “What about Readings, then?”
+
+If anybody knows the manager there, please let them know that I am available and really, just such a bright girl.

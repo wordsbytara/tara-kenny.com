@@ -5,8 +5,6 @@ category: essays
 ---
 _Originally published in Ladies of Leisure, October 2015_
 
-![null](/img/ec3a14b9ad4b10aa8b4e2e5c43d5d7c2.jpg)
-
 As a small child, I was gifted and talented. I mean to say, I participated in programs with acronyms like GATEWAYS – Gifted and Talented Education Ways – and TOM – Tournament of the Minds – which essentially involved precocious baby nerds dressing up in costumes and earnestly solving riddles to a room full of weathered parents. I was the kind of intolerable child who asked my already overworked state school teachers for extra work. I was on the debating team, a member of chess club, and a Team Vic runner. Adults were always commenting that I was “just such a bright girl.” Success felt certain and came as easily as sprinting around an athletics track and not stopping, even when I felt like I was going to throw up the hot dog and sherbet bombs I had for little lunch. 
 
 I can’t claim that overbearing parents fuelled my twelve-year-old ambition. It was I alone who decided that the local high school just wouldn’t do and enrolled myself in scholarship exams for private schools. I wanted to abandon the common people to hob knob with five year olds in ties and patrons of the new school buildings in pearls. High school is where I discovered \*boys\* and \*make up\* and spent six years intermittently undoing and redoing my obnoxiously high ponytail and accompanying quiff in the bathroom mirrors and designing a fun MySpace page. Regardless, I managed a near perfect ENTER score and breezed into my first choice of university course. 

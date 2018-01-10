@@ -6,8 +6,8 @@ description: >-
   [Kajal](https://www.kajalmag.com/) and the former online editor of the
   Australian women’s collective [Ladies of
   Leisure](https://www.instagram.com/ladiesofleisurezine/). She is currently
-  working full time in philanthropy, and exploring smutty romance and feminist
-  mysticism through her personal projects.
+  working full time in philanthropic research, and exploring smutty romance and
+  feminist mysticism through her personal projects.
 
 
   Follow her on Instagram at

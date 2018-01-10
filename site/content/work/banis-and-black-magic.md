@@ -5,6 +5,8 @@ category: essays
 ---
 [_Originally published in Kajal, December 18 2017_](https://www.kajalmag.com/banis-and-black-magic-with-achi/)
 
+Artwork by Asif Hoque
+
 ![null](/img/screen-shot-2017-12-18-at-12.49.41-pm-e1513623979462.png)
 
 In Sri Lanka, hooniyan, or witchcraft, is a commonly accepted fact of life. Every Bhagya, Kasun and Tharushi has a story about being hexed by a vengeful nemesis, behaving regrettably while under the influence of a love potion, or watching on as a friend or family member writhed in the throes of possession by a spirit trapped in the hell realms. It’s unlikely you’ll find someone willing to admit to being the caster of the spell, unless of course, they were acting in self-defence.<https://www.kajalmag.com/banis-and-black-magic-with-achi/ >

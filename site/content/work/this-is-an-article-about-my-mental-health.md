@@ -1,9 +1,11 @@
 ---
 title: This is an Article About my Mental Health
-date: 2016-04-01T22:46:49-04:00
+date: 2016-04-02T02:46:49.000Z
 category: essays
 ---
 [_First published in Good Good Girl, April 2016_](http://goodgoodgirl.com/this-is-an-article-about-my-mental-health/)
+
+![](/img/main.jpg)
 
 Last year Wendy Syfret wrote an [article](http://goodgoodgirl.com/this-is-an-article-about-my-anxiety/) that made this cyborg cry real tears into her laptop keyboard for the honesty with which it articulated many of the emotions I have often felt, but struggled to find words for.
 

@@ -1,6 +1,6 @@
 ---
 title: My Complex Relationship with Selfies
-date: 2017-09-25T22:07:03-04:00
+date: 2017-09-26T02:07:03.000Z
 category: essays
 ---
 _Originally published in print in _[_Eat If You're Hungry zine_](https://www.instagram.com/eatifyouarehungry_zine/)_, then online in _[_Liminal, September 25 2017_](https://www.liminalmag.com/blog/my-complex-relationship-with-selfies?rq=tara%20kenny)

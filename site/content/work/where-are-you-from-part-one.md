@@ -48,13 +48,13 @@ I have a very complex understanding of my home and my origins. I was born in Sar
 
 **Ru Kwok: I’m the only mixed race child too...How did your father’s family respond to you?**
 
-**SL: **It caused quite a rift in the family. My dad’s brother actually doesn’t speak to him anymore, because he married a western woman. 
+**SL:** It caused quite a rift in the family. My dad’s brother actually doesn’t speak to him anymore, because he married a western woman. 
 
 I was always quite feminine as a kid, which they kind of chose to ignore. I think my father’s side of the family know that my sister and I are queer and they’re accepting, but they only know so much. 
 
 ![](/img/wayfspencer2b.jpg)
 
-**TK: This question might be a little different for you having lived in so many places, but how do you relate to your “Asianness” versus “Australianness”? **
+**TK: This question might be a little different for you having lived in so many places, but how do you relate to your “Asianness” versus “Australianness”?**
 
 **SL:** I’m definitely Australian and I understand Australian culture, to an extent. I’m very close to my mother and her side of the family, who are Australian. I was here when I was a teenager; I think those years are very formative. Do I feel connected to Australian culture? I live in Australia and that in it self makes me Australian, but I’m also Chinese. I think belonging and where you live are two different things sometimes. 
 
@@ -64,7 +64,7 @@ I was always quite feminine as a kid, which they kind of chose to ignore. I thin
 
 Growing up it was harder. Maybe because of the way that capitalist frameworks create this global, post identity Benetton complex, growing up I kind of felt like everyone was the same. I wasn’t upset about how I was, but maybe I was less comfortable in a social sense because of how I look. 
 
-**RK: It’s hard for someone who has so many facets to find that directly represented in the media, but it’s more that you’re looking for diversity in general. **
+**RK: It’s hard for someone who has so many facets to find that directly represented in the media, but it’s more that you’re looking for diversity in general.**
 
 **SL:** I was never someone who looked at the media and really felt that affected; I looked at the people around me. Diversity is the best thing about Australia. I went to school near Noble Park in Rowville and there were so many different types of people. I didn’t feel othered in terms of ethnicity; it was the queerness that I had to work with. I was the only queer in the village, but I held my own and it was fine! 
 
@@ -72,6 +72,6 @@ When I was in high school in the Middle East everyone was highly educated and re
 
 ![](/img/wayf-spencer4.jpg)
 
-_**Spencer Lai **is a practicing artist. They work and live in Melbourne. Follow Spencer on Instagram _[_here_](https://www.instagram.com/babeydivorce/?hl=en)_ and see more of their work _[_here_](https://www.spencerlai.info/)_._
+_**Spencer Lai** is a practicing artist. They work and live in Melbourne. Follow Spencer on Instagram _[_here_](https://www.instagram.com/babeydivorce/?hl=en)_ and see more of their work _[_here_](https://www.spencerlai.info/)_._
 
 _**Ru Kwok** is a multi-disciplinary creative. Since completing a Bachelor of Fashion Design at RMIT Ru has been collaborating and producing work concerned with female representation and identity. You can find her _[_here _](https://www.instagram.com/ru_y_k/?hl=en)_and contact her at ru.y.kwok@gmail.com._

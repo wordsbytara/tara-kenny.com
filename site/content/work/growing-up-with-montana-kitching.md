@@ -1,6 +1,6 @@
 ---
 title: Growing up with Montana Kitching
-date: 2017-03-01T19:06:32-05:00
+date: 2017-03-02T00:06:32.000Z
 category: interviews
 ---
 _Originally published in Ladies of Leisure print edition three, March 2017_
@@ -94,3 +94,5 @@ The little girl we babysit is always sitting and watching me draw. She saw a nud
 **TK: Of course, everything feels different when it’s personal.  So many wise words from a wise woman. Thanks Tan. **
 
 **MK:** You’re welcome. Thank you.
+
+See more of Montana's work at [www.montanakitching.com](www.montanakitching.com) and follow her on Instagram at [@okaymontana](https://www.instagram.com/okaymontana/?hl=en)

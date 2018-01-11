@@ -1,6 +1,6 @@
 ---
 title: Where Are You From? Part One
-date: 2016-10-10T23:23:33.000Z
+date: 2016-10-01T19:23:33-04:00
 category: interviews
 ---
 **Originally publiushed in Ladies of Leisure, October 2016**

@@ -1,9 +1,9 @@
 ---
 title: Where Are You From? Part One
-date: 2016-10-10T19:23:33-04:00
+date: 2016-10-10T23:23:33.000Z
 category: interviews
 ---
-_Originally publiushed in Ladies of Leisure, October 2016 _
+__Originally publiushed in Ladies of Leisure, October 2016__
 
 ![](/img/wayf-tara-k1.jpg)
 
@@ -34,7 +34,7 @@ _Painting credit: The Face, 2013 by Joshua Stevens_
 
 **Tara Kenny: Hey Spencer. Firstly, what is your cultural heritage? Also, is that a question you are asked often, and how do you interpret it?**
 
-**Spencer Lai: **I’m half Chinese-Malay and half Australian, or English. My father is Chinese and my mother is Australian. I get asked all the time. People think I’m Mediterranean, Macedonian, Spanish, and most recently Native American, because of my hair. It depends what I wear as well, which is really strange. If I wear glasses people think I’m Asian. 
+**Spencer Lai:** I’m half Chinese-Malay and half Australian, or English. My father is Chinese and my mother is Australian. I get asked all the time. People think I’m Mediterranean, Macedonian, Spanish, and most recently Native American, because of my hair. It depends what I wear as well, which is really strange. If I wear glasses people think I’m Asian. 
 
 I used to be okay with the question but now it depends how it’s asked: context, tone, and language. If it’s on the street or we’ve just met and you’re like, “What are you? I’m soooo interested”; I don’t really have time for that. I would prefer for it to be more fluid. It’s a double-edged sword because it can be nice when people think I look interesting. If it’s overseas in a bar or hotel it makes more sense contextually, but it’s kind of a boring question!
 
@@ -44,7 +44,7 @@ I have a very complex understanding of my home and my origins. I was born in Sar
 
 **TK: Do you feel a strong connection your Chinese-Malay side regardless, or not really?**
 
-**SL: **Not really. My dad is quite a reserved man. He was the first of 15 generations of Chinese to marry a western person. It was a big deal back then and he had to face so much racism in Australia in the 70s and 80s. He was called a “boat boy” and “swamp rat” in the streets repeatedly. 
+**SL:** Not really. My dad is quite a reserved man. He was the first of 15 generations of Chinese to marry a western person. It was a big deal back then and he had to face so much racism in Australia in the 70s and 80s. He was called a “boat boy” and “swamp rat” in the streets repeatedly. 
 
 **Ru Kwok: I’m the only mixed race child too...How did your father’s family respond to you?**
 

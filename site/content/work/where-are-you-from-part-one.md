@@ -3,9 +3,9 @@ title: Where Are You From? Part One
 date: 2016-10-10T23:23:33.000Z
 category: interviews
 ---
-__Originally publiushed in Ladies of Leisure, October 2016__
+**Originally publiushed in Ladies of Leisure, October 2016**
 
-![](/img/wayf-tara-k1.jpg)
+![null](/img/wayf-tara-k1.jpg)
 
 _A series of conversations led by Tara Kenny and Ru Kwok
 Images by Ru Kwok_
@@ -16,19 +16,19 @@ When asked this question by a nondescript middle-aged woman with her child on a 
 
 While where I am “from” doesn’t often elicit such a forthright response, the question is a familiar one. Sometimes it’s posed with warmth and curiosity from people I know, other times it’s slurred or shouted by strangers at (that well loved site for the meeting of great Australian minds) the pub, or in the street; my cultural identity suddenly a jarring pick up line or public trivia question that apparently begs to be solved. I shouldn’t take it the wrong way though; “exotic” girls are just sooo interesting.
 
-![](/img/wayftarak3b.jpg)
+![null](/img/wayftarak3b.jpg)
 
 To be clear, it’s not a question I blanket resent or believe ought never be asked, but I do wonder how its consistent presence in my daily life has come to shape my own confused cultural self-perception. Put simply, if “real Australians” can’t comprehend my Australianness, how could it be true?
 
 There is a Danish word – hygge – as difficult to pronounce, as it is to fully grasp. A friend who had recently returned from an exchange in Copenhagen described hygge as “Danish for cosy time with friends”, and more broadly, a word that gestures towards how it feels to belong. She wondered whether foreigners could achieve hygge and, despite protestations from local friends, concluded that no, they probably could not. It just wouldn’t be the same. Similarly, I wonder whether migrants or their descendants (like me) can achieve real Australianness, whatever that even is. Could I host an Aussie BBQ; take my future kids to Nippers or Auskick; rub zinc on their noses and feed them vegemite soldiers? More importantly, would I want to? From the outskirts, these traditions and shared sites of recreation can feel hostile; they do not quite belong to me. Attempts to recreate them would feel self conscious, a wooden parody. Plus, there’s more to Australia than swimming and sausage sizzles. 
 
-![](/img/wayf-tara-k4-2.jpg)
+![null](/img/wayf-tara-k4-2.jpg)
 
 Diversity is far and away the thing I value most about this country, yet when I think “authentic” Australia I conjure the cast of Home and Away, Bindi Irwin, Puberty Blues, and the blonde and blue eyed James’ and Stephanie’s of my white-bred primary school who assured me not to worry because I’m apparently not “really Asian, though”. It stings to realise how deeply I have internalised this white Australia that never really was, how firmly it has embedded and crystallised in my subconscious mind. But how to relocate myself – and other Asian Australians who might feel it too – within this narrative of “authentic” Australia? An attempt to acknowledge and explore the similarities, differences, complexities and textures of the Asian Australian experience seems like a good place to start. So, where are you from?
 
 **Spencer Lai**
 
-![](/img/wayfspencer1b_1000.jpg)
+![null](/img/wayfspencer1b_1000.jpg)
 
 _Painting credit: The Face, 2013 by Joshua Stevens_
 
@@ -52,7 +52,7 @@ I have a very complex understanding of my home and my origins. I was born in Sar
 
 I was always quite feminine as a kid, which they kind of chose to ignore. I think my father’s side of the family know that my sister and I are queer and they’re accepting, but they only know so much. 
 
-![](/img/wayfspencer2b.jpg)
+![null](/img/wayfspencer2b.jpg)
 
 **TK: This question might be a little different for you having lived in so many places, but how do you relate to your “Asianness” versus “Australianness”?**
 
@@ -70,8 +70,8 @@ Growing up it was harder. Maybe because of the way that capitalist frameworks cr
 
 When I was in high school in the Middle East everyone was highly educated and really respectful. At international school you have so many people from different places, all basically there for their parents work. We all moved around a lot so learning where people came from was a way to find common ground. Not in a supremacist unity way, just knowing that 90% of people are not Qatari so they must be from someplace else. My ethnicity was accepted as one aspect of me.
 
-![](/img/wayf-spencer4.jpg)
+![null](/img/wayf-spencer4.jpg)
 
-_**Spencer Lai** is a practicing artist. They work and live in Melbourne. Follow Spencer on Instagram _[_here_](https://www.instagram.com/babeydivorce/?hl=en)_ and see more of their work _[_here_](https://www.spencerlai.info/)_._
+Spencer Lai is a practicing artist. They work and live in Melbourne. Follow Spencer on Instagram _[_here_](https://www.instagram.com/babeydivorce/?hl=en)_ and see more of their work _[_here_](https://www.spencerlai.info/)_._
 
-_**Ru Kwok** is a multi-disciplinary creative. Since completing a Bachelor of Fashion Design at RMIT Ru has been collaborating and producing work concerned with female representation and identity. You can find her _[_here _](https://www.instagram.com/ru_y_k/?hl=en)_and contact her at ru.y.kwok@gmail.com._
+Ru Kwok is a multi-disciplinary creative. Since completing a Bachelor of Fashion Design at RMIT Ru has been collaborating and producing work concerned with female representation and identity. You can find her [here ](https://www.instagram.com/ru_y_k/?hl=en)and contact her at ru.y.kwok@gmail.com.

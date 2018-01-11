@@ -1,13 +1,13 @@
 ---
 title: Speaking with Rosanna Flamer-Caldera about Sri Lankan Queerness and Protection
-date: 2017-11-05T23:39:46-05:00
+date: 2017-11-06T04:39:46.000Z
 category: interviews
 ---
 [_First published in Kajal, November 5 2017_](https://www.kajalmag.com/rosanna-flamer-caldera-sri-lanka-lgbtq/)
 
-![](/img/image-1.jpg)
+![null](/img/image-1.jpg)
 
-In Sri Lanka, homosexuality remains a crime. Non-profit organisation EQUAL GROUND works to dismantle cultural and social stigma, and fights back against police corruption and government inactivity to seek human and political rights for Sri Lanka’s LGBTIQ community. Kajal sat down with Executive Director Rosanna Flamer-Caldera to discuss Britain’s colonial legacy of homophobia, Colombo Pride celebrations, not so secretly gay parliamentarians, and the path to decriminalisation.
+_In Sri Lanka, homosexuality remains a crime. Non-profit organisation EQUAL GROUND works to dismantle cultural and social stigma, and fights back against police corruption and government inactivity to seek human and political rights for Sri Lanka’s LGBTIQ community. Kajal sat down with Executive Director Rosanna Flamer-Caldera to discuss Britain’s colonial legacy of homophobia, Colombo Pride celebrations, not so secretly gay parliamentarians, and the path to decriminalisation._
 
 **What are some of the most pressing, or unique issues facing the LGBTIQ community in Sri Lanka?**
 

@@ -3,9 +3,9 @@ title: 'Montana Kitching, artist, nurse and author'
 date: 2017-03-02T00:06:32.000Z
 category: interviews
 ---
-_Originally published in [Ladies of Leisure](http://soon.ladiesofleisurezine.com/) print edition three, March 2017_
+_Originally published in [Ladies of Leisure](http://soon.ladiesofleisurezine.com/) print edition three, March 2017. Artwork by Montana Kitching._
 
-![](/img/brain zaps.jpeg)
+!\[](/img/brain zaps.jpeg)
 
 _Artist, nurse and soon to be young adult non-fiction author Montana Kitching talks to Tara Kenny about Instagram fame, their shared days in the old school yard, and how to help young women navigate that feel when you’re a teenager and you don’t know what the fuck is going on._
 
@@ -57,7 +57,7 @@ The little girl we babysit is always sitting and watching me draw. She saw a nud
 
 **MK:** It’s been therapeutic. I used to get really tongue-tied trying to discuss anxiety, body image, and sexuality with my friends and family. Now that I’ve drawn so much around those topics I’m fine to talk about them, and people understand me so much better. 
 
-!\[](/img/self portrait rock on.jpeg)
+![](/img/self portrait rock on.jpeg)
 
 **TK: Your work is so relatable, whether people know you or not. Personally, seeing people like you address difficult issues through art has been really important in helping me be more open. Amongst my old friends I feel like it’s only in the last few years that we’ve become more willing to talk about “embarrassing” things. When you’re younger people are so much more scared of being embarrassed and not being normal.**
 

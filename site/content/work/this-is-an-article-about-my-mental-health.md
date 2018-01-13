@@ -3,7 +3,7 @@ title: This is an Article About my Mental Health
 date: 2016-04-02T02:46:49.000Z
 category: essays
 ---
-[_First published in Good Good Girl, April 2016_](http://goodgoodgirl.com/this-is-an-article-about-my-mental-health/)
+[_Originally published in Good Good Girl, April 2016_](http://goodgoodgirl.com/this-is-an-article-about-my-mental-health/)
 
 ![null](/img/main.jpg)
 

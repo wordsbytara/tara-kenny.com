@@ -3,9 +3,9 @@ title: Growing up with Montana Kitching
 date: 2017-03-02T00:06:32.000Z
 category: interviews
 ---
-_Originally published in Ladies of Leisure print edition three, March 2017_
+_Originally published in [_Ladies of Leisure_](http://soon.ladiesofleisurezine.com/) print edition three, March 2017_
 
-Artist, nurse and soon to be young adult non-fiction author Montana Kitching talks to Tara Kenny about Instagram fame, their shared days in the old school yard, and how to help young women navigate that feel when you’re a teenager and you don’t know what the fuck is going on. 
+_Artist, nurse and soon to be young adult non-fiction author Montana Kitching talks to Tara Kenny about Instagram fame, their shared days in the old school yard, and how to help young women navigate that feel when you’re a teenager and you don’t know what the fuck is going on. _
 
 **Tara Kenny: Hey Tan! I’ve noticed that you’re getting a lot of traction online and on the gram at the moment. What has that experience been like and how has it impacted your artistic practice?**
 
@@ -21,7 +21,7 @@ Some of us are lucky enough to have an older sister or mum to learn from. I’m 
 
 That’s kind of what I’m saying in my book: you’re going to figure this stuff out anyway, but you’re probably going to learn it when something embarrassing or scarring happens. I may as well tell you my embarrassing stories instead! As a teenager you feel really awkward because you don’t know what the fuck is going on. I hope this book will tell young people straight up: this is going to happen to you.
 
-__TK: Real talk!__
+**TK: Real talk!**
 
 **MK:** Literally! My housemate and I nanny an eleven year old girl who has been staying at our house a couple of nights a week for about two years. It’s such a curious and vulnerable time for her. Every week she looks a little bit different. Maisie and I are very open, which has made her comfortable with us. 
 
@@ -29,23 +29,23 @@ Her mum asked her whether she would date a boy or a girl if she had to choose, a
 
 **TK: She’s really lucky to be exposed to you two! I’m interested to know whether there’s anything like your project out there at the moment?**
 
-__MK:__ There are a lot of very scientific biology and physiology textbooks about puberty, and there are books for parents. I haven’t found anything written in a way that I would have appreciated as a teenager. I printed out all these handouts that schools give to kids in Phys. Ed class. The first headline was “Heavier, Hairier and Smellier.” How bad is that? A kid would immediately read that and be like, “Eww, I don’t want that to happen!”
+**MK:** There are a lot of very scientific biology and physiology textbooks about puberty, and there are books for parents. I haven’t found anything written in a way that I would have appreciated as a teenager. I printed out all these handouts that schools give to kids in Phys. Ed class. The first headline was “Heavier, Hairier and Smellier.” How bad is that? A kid would immediately read that and be like, “Eww, I don’t want that to happen!”
 
 **TK: Do you remember Sex Ed. at our school? I don’t know if I blocked it out, but all I remember is that sixty-year-old science teacher Miss Barnes putting a condom on a banana.**
 
-__MK:__ That’s literally all I remember too! It’s interesting that you say that because all the people our age who I speak to can’t remember if they had it or what was said. I think schools approach it wrong, so teenagers end up sitting there and treating it like a big lol. They get old teachers to be like, “This is a condom!” \[nasal voice].
+**MK:** That’s literally all I remember too! It’s interesting that you say that because all the people our age who I speak to can’t remember if they had it or what was said. I think schools approach it wrong, so teenagers end up sitting there and treating it like a big lol. They get old teachers to be like, “This is a condom!” \[nasal voice].
 
 **TK: Sorry, but that is lol! I think it would be really cool as a teenager to have someone who isn’t that much older than you telling you that everything is going to be okay; it’s different to hearing it from someone ancient. I also think there are so many things that aren’t specifically “sex ed” that need to be addressed in school: being a woman, feminism, and how not to feel shit about yourself.**
 
-__MK:__ That’s the thing. I started off thinking of writing one small book and then realised there’s too much to cover! I want to do one on sexuality, one on mental health, one on body image. 
+**MK:** That’s the thing. I started off thinking of writing one small book and then realised there’s too much to cover! I want to do one on sexuality, one on mental health, one on body image. 
 
 The one I’m working on now is targeted at young girls who are entering puberty. It covers your first period, underarm hair, and boobs, but not how they’re usually approached. Every chapter opens with a little story, like “this happened to me when I was ten...” There are also going to be a lot of illustrations. 
 
 The little girl we babysit is always sitting and watching me draw. She saw a nude painting I was doing and commented that it looked silly that one boob was bigger than the other. I told her that’s really normal and she was like, “No, it’s not!”
 
-**TK: Haha! Were you like, sweetie you’d be surprised? Seriously though, I think it’s really important to expose people to diverse body types early on. I remember when I was in high school I got all these ideas from consuming so much media. I would obsessively look at photos of the Olsen twins and Paris Hilton, and read articles in Cleo about how to be hot and give good blow jobs, basically.**
+**TK: Haha! Were you like, sweetie you’d be surprised? Seriously though, I think it’s really important to expose people to diverse body types early on. I remember when I was in high school I got all these ideas from consuming so much media. I would obsessively look at photos of the Olsen twins and Paris Hilton, and read articles in _Cleo_ about how to be hot and give good blow jobs, basically.**
 
-__MK:__ Totally. How to shave your legs and how to impress your man, never giving you the option of not shaving your legs! 
+**MK:** Totally. How to shave your legs and how to impress your man, never giving you the option of not shaving your legs! 
 
 **TK: It’s not like women being valued predominantly based on their appearance is confined to our generation, but I do feel like younger people now are exposed to more diversity through social media. Like your work, which discusses typically personal experiences – anxiety, body image, mental health – in a public space.**
 
@@ -83,7 +83,7 @@ __MK:__ Totally. How to shave your legs and how to impress your man, never givin
 
 **MK:** Oh, and boston buns! Back to the question, I would say don’t compare yourself to others, but it’s inevitable that I would have done that anyway. Also: You are gay. Do not waste time trying to have boyfriends.
 
-**TK: When you’re a teenager sexuality is so confusing that the idea of “coming out” as some kind of big reveal is quite strange. **
+**TK: When you’re a teenager sexuality is so confusing that the idea of “coming out” as some kind of big reveal is quite strange.**
 
 **MK:** And the idea that once you say it you can’t take it back. 
 
@@ -95,4 +95,4 @@ __MK:__ Totally. How to shave your legs and how to impress your man, never givin
 
 **MK:** You’re welcome. Thank you.
 
-__See more of Montana's work at [www.montanakitching.com](www.montanakitching.com) and follow her on Instagram at [@okaymontana](https://www.instagram.com/okaymontana/?hl=en)__
+**See more of Montana's work **[**here**](http://montanakitching.bigcartel.com/)** and follow her on Instagram at [@okaymontana](https://www.instagram.com/okaymontana/?hl=en)**

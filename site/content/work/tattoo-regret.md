@@ -1,13 +1,13 @@
 ---
 title: 'Regretting a Tattoo is a Complicated, Nuanced Thing'
-date: 2017-09-15T10:04:10-04:00
+date: 2017-09-15T14:04:10.000Z
 category: essays
 ---
 [_Originally published in Catalogue Magazine, September 2017_](https://www.cataloguemagazine.com.au/feature/regretting-a-tattoo-is-a-complicated-nuanced-thing)
 
 I was 12 when my dad died; too young to get a sense of him as a three dimensional person, although the more I learn the luckier I feel that that was the case.
 
-I vividly remember getting the news that he was gone. It’s so clear in my mind because my family – Mum, my step dad, my sister and I – were sitting on my bed talking, laughing and joking; an uncharacteristically Brady Bunch scene. Call me crazy, but I telepathically knew he was dead as soon as the phone rang.
+I vividly remember getting the news that he was gone. It’s so clear in my mind because my family – Mum, my step dad, my sister and I – were sitting on my bed talking, laughing and joking; an uncharacteristically _Brady Bunch_ scene. Call me crazy, but I telepathically knew he was dead as soon as the phone rang.
 
 I was 16 when I got his signature tattooed on the side of my thigh. More than a decade later I can’t think of a single reason why I wanted to brand myself with my absent and late father’s name. I could say it was a desperate memorialisation of a father I never had, but more likely, the cursive black ink was the perfect blend of slutty and ‘deep’ for my 16 year old sensibilities. I coquettishly declared my new ink at school on Monday and pulled up my tartan skirt to reveal black cursive framed with lacy red underwear from Bras n Things (the home of teenage eroticism).
 

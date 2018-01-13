@@ -2,7 +2,7 @@
 title: >-
   I was a Poor Kid at a Wealthy Private School. It Gave me Social Mobility, but
   Also a Sense of Shame
-date: 2017-06-17T22:14:57-04:00
+date: 2017-06-18T02:14:57.000Z
 category: essays
 ---
 [_Originally published in the Guardian, June 25 2017_](https://www.theguardian.com/education/2017/jun/18/i-was-a-poor-kid-at-a-wealthy-private-school-it-gave-me-social-mobility-but-also-a-sense-of-shame)
@@ -37,7 +37,7 @@ I excelled at athletics, joined the debating team, achieved a final score that g
 
 The school wasn’t exclusively populated by the children of haughty elitists who wanted their baby geniuses shielded from povo “flat rats” either, (although I suspect there was a bit of that). Many wonderful, open minded people sent their children there, including middle class families who struggled financially to secure that promised leg up in life.
 
-New York Times writer Nikole Hannah-Jones, who has written extensively about racial and socioeconomic segregation in American schools, [describes her own decision to send her daughter to a local public school as follows](https://www.npr.org/templates/transcript/transcript.php?storyId=509325266):
+_New York Times_ writer Nikole Hannah-Jones, who has written extensively about racial and socioeconomic segregation in American schools, [describes her own decision to send her daughter to a local public school as follows](https://www.npr.org/templates/transcript/transcript.php?storyId=509325266):
 
 _One of the things I’ve done in my work is show the hypocrisy of progressive people who say they believe in inequality, but when it comes to their individual choices about where they’re going to live and where they’re going to send their children, they make very different decisions ..._
 

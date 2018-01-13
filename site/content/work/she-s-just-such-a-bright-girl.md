@@ -3,7 +3,7 @@ title: She's Just Such a Bright Girl
 date: 2015-10-01T22:34:16.000Z
 category: essays
 ---
-_Originally published in _[_Ladies of Leisure_](http://soon.ladiesofleisurezine.com/)_, October 2015_
+*Originally published in [_Ladies of Leisure_](http://soon.ladiesofleisurezine.com/), October 2015*
 
 As a small child, I was gifted and talented. I mean to say, I participated in programs with acronyms like GATEWAYS – Gifted and Talented Education Ways – and TOM – Tournament of the Minds – which essentially involved precocious baby nerds dressing up in costumes and earnestly solving riddles to a room full of weathered parents. I was the kind of intolerable child who asked my already overworked state school teachers for extra work. I was on the debating team, a member of chess club, and a Team Vic runner. Adults were always commenting that I was “just such a bright girl.” Success felt certain and came as easily as sprinting around an athletics track and not stopping, even when I felt like I was going to throw up the hot dog and sherbet bombs I had for little lunch. 
 

@@ -3,9 +3,9 @@ title: Growing up with Montana Kitching
 date: 2017-03-02T00:06:32.000Z
 category: interviews
 ---
-_Originally published in [_Ladies of Leisure_](http://soon.ladiesofleisurezine.com/) print edition three, March 2017_
+*Originally published in [Ladies of Leisure](http://soon.ladiesofleisurezine.com/) print edition three, March 2017*
 
-_Artist, nurse and soon to be young adult non-fiction author Montana Kitching talks to Tara Kenny about Instagram fame, their shared days in the old school yard, and how to help young women navigate that feel when you’re a teenager and you don’t know what the fuck is going on. _
+*Artist, nurse and soon to be young adult non-fiction author Montana Kitching talks to Tara Kenny about Instagram fame, their shared days in the old school yard, and how to help young women navigate that feel when you’re a teenager and you don’t know what the fuck is going on.*
 
 **Tara Kenny: Hey Tan! I’ve noticed that you’re getting a lot of traction online and on the gram at the moment. What has that experience been like and how has it impacted your artistic practice?**
 

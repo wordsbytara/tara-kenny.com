@@ -95,4 +95,4 @@ The little girl we babysit is always sitting and watching me draw. She saw a nud
 
 **MK:** You’re welcome. Thank you.
 
-**See more of Montana's work **[**here**](http://montanakitching.bigcartel.com/)** and follow her on Instagram at [@okaymontana](https://www.instagram.com/okaymontana/?hl=en)**
+**See more of Montana's work** [**here**](http://montanakitching.bigcartel.com/)** and follow her on Instagram at [@okaymontana](https://www.instagram.com/okaymontana/?hl=en)**

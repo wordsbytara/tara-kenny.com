@@ -3,7 +3,7 @@ title: Free Love is a Battlefield
 date: 2015-09-01T22:30:37.000Z
 category: essays
 ---
-*First published in Spook Magazine, September 2015*
+*Originally published in Spook Magazine, September 2015*
 
 It’s not every day that one stumbles across the profile of an “NYC scientist studying sex, drugs and religion” when scouring Airbnb in search of a shiny new life in an unknown city. In different circumstances, the “good scientist’s” declaration that (when he wasn’t working on a graphic novel about cannabis and its myriad benefits) he passed his time as an active member of a polyamorous Brooklyn love tribe might have been enough to disqualify him from my eligible housemate pool. 
 

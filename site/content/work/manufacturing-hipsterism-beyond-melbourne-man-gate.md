@@ -3,7 +3,7 @@ title: 'Manufacturing Hipsterism: Beyond ''Melbourne Man-gate'''
 date: 2016-10-06T02:35:45.000Z
 category: essays
 ---
-[_First published in Overland, October 5 2016_](https://overland.org.au/2016/10/manufacturing-hipsterism-behind-melbourne-man-gate/)
+[_Originally published in Overland, October 5 2016_](https://overland.org.au/2016/10/manufacturing-hipsterism-behind-melbourne-man-gate/)
 
 Four months ago I went on my first date with Samuel David(e) Hains, [aka the ‘most Melbourne man ever’.](http://www.theage.com.au/victoria/is-samuel-davide-hains-the-most-melbourne-guy-ever-or-just-another-hipster-20160705-gpywye.html) If in the early days of our blossoming, largely private infatuation I had been catapulted a month into the future to discover that as a result of a street-fashion column I co-created my crush had ‘gone viral’, I’m not sure I would have believed it.
 

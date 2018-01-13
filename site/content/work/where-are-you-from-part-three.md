@@ -3,9 +3,9 @@ title: Where Are You From? Part Three
 date: 2016-11-02T00:15:21.000Z
 category: interviews
 ---
-*First published in [Ladies of Leisure](http://soon.ladiesofleisurezine.com/), November 2016*
+_Originally published in [Ladies of Leisure](http://soon.ladiesofleisurezine.com/), November 2016_
 
-*The third segment of a three part series of conversations around cultural identity led by Tara Kenny and Ru Kwok. Images by Ru Kwok.*
+_The third segment of a three part series of conversations around cultural identity led by Tara Kenny and Ru Kwok. Images by Ru Kwok._
 
 ![null](/img/wayf-juanita2_1000.jpg)
 

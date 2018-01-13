@@ -3,7 +3,7 @@ title: 'Rosanna Flamer-Caldera, Sri Lankan LGBTIQ rights activist'
 date: 2017-11-06T04:39:46.000Z
 category: interviews
 ---
-[_First published in Kajal, November 5 2017_](https://www.kajalmag.com/rosanna-flamer-caldera-sri-lanka-lgbtq/)
+[_Originally published in Kajal, November 5 2017_](https://www.kajalmag.com/rosanna-flamer-caldera-sri-lanka-lgbtq/)
 
 ![null](/img/image-1.jpg)
 

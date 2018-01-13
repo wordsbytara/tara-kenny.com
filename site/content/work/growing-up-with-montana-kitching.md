@@ -1,11 +1,11 @@
 ---
-title: Growing up with Montana Kitching
+title: 'Montana Kitching, artist, nurse and soon to be author'
 date: 2017-03-02T00:06:32.000Z
 category: interviews
 ---
-*Originally published in [Ladies of Leisure](http://soon.ladiesofleisurezine.com/) print edition three, March 2017*
+_Originally published in [Ladies of Leisure](http://soon.ladiesofleisurezine.com/) print edition three, March 2017_
 
-*Artist, nurse and soon to be young adult non-fiction author Montana Kitching talks to Tara Kenny about Instagram fame, their shared days in the old school yard, and how to help young women navigate that feel when you’re a teenager and you don’t know what the fuck is going on.*
+_Artist, nurse and soon to be young adult non-fiction author Montana Kitching talks to Tara Kenny about Instagram fame, their shared days in the old school yard, and how to help young women navigate that feel when you’re a teenager and you don’t know what the fuck is going on._
 
 **Tara Kenny: Hey Tan! I’ve noticed that you’re getting a lot of traction online and on the gram at the moment. What has that experience been like and how has it impacted your artistic practice?**
 
@@ -95,4 +95,4 @@ The little girl we babysit is always sitting and watching me draw. She saw a nud
 
 **MK:** You’re welcome. Thank you.
 
-**See more of Montana's work** [**here**](http://montanakitching.bigcartel.com/)** and follow her on Instagram at [@okaymontana](https://www.instagram.com/okaymontana/?hl=en)**
+*See more of Montana's work [here](http://montanakitching.bigcartel.com/) and follow her on Instagram [here](https://www.instagram.com/okaymontana/?hl=en).*

@@ -1,9 +1,11 @@
 ---
-title: 'Montana Kitching, artist, nurse and soon to be author'
+title: 'Montana Kitching, artist, nurse and author'
 date: 2017-03-02T00:06:32.000Z
 category: interviews
 ---
 _Originally published in [Ladies of Leisure](http://soon.ladiesofleisurezine.com/) print edition three, March 2017_
+
+![](/img/self portrait rock on.jpeg)
 
 _Artist, nurse and soon to be young adult non-fiction author Montana Kitching talks to Tara Kenny about Instagram fame, their shared days in the old school yard, and how to help young women navigate that feel when you’re a teenager and you don’t know what the fuck is going on._
 
@@ -95,4 +97,4 @@ The little girl we babysit is always sitting and watching me draw. She saw a nud
 
 **MK:** You’re welcome. Thank you.
 
-*See more of Montana's work [here](http://montanakitching.bigcartel.com/) and follow her on Instagram [here](https://www.instagram.com/okaymontana/?hl=en).*
+_See more of Montana's work [here](http://montanakitching.bigcartel.com/) and follow her on Instagram [here](https://www.instagram.com/okaymontana/?hl=en)._

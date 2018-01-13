@@ -3,7 +3,7 @@ title: How to Deal When Your Country of Origin is Trending
 date: 2016-04-01T22:18:45.000Z
 category: essays
 ---
-_Originally published in _[_Ladies of Leisure_](http://soon.ladiesofleisurezine.com/)_, April 2016_
+*Originally published in [_Ladies of Leisure_](http://soon.ladiesofleisurezine.com/), April 2016*
 
 ![null](/img/img_3042-1_1000.jpg)
 

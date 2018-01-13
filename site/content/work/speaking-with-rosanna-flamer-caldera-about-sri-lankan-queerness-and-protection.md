@@ -1,5 +1,5 @@
 ---
-title: Speaking with Rosanna Flamer-Caldera about Sri Lankan Queerness and Protection
+title: 'Rosanna Flamer-Caldera, Sri Lankan LGBTIQ rights activist'
 date: 2017-11-06T04:39:46.000Z
 category: interviews
 ---
@@ -7,7 +7,7 @@ category: interviews
 
 ![null](/img/image-1.jpg)
 
-_In Sri Lanka, homosexuality remains a crime. Non-profit organisation _[_EQUAL GROUND_](http://www.equal-ground.org/)_ works to dismantle cultural and social stigma, and fights back against police corruption and government inactivity to seek human and political rights for Sri Lanka’s LGBTIQ community. Kajal sat down with Executive Director Rosanna Flamer-Caldera to discuss Britain’s colonial legacy of homophobia, Colombo Pride celebrations, not so secretly gay parliamentarians, and the path to decriminalisation._
+*In Sri Lanka, homosexuality remains a crime. Non-profit organisation [EQUAL GROUND](http://www.equal-ground.org/) works to dismantle cultural and social stigma, and fights back against police corruption and government inactivity to seek human and political rights for Sri Lanka’s LGBTIQ community. Kajal sat down with Executive Director Rosanna Flamer-Caldera to discuss Britain’s colonial legacy of homophobia, Colombo Pride celebrations, not so secretly gay parliamentarians, and the path to decriminalisation.*
 
 **What are some of the most pressing, or unique issues facing the LGBTIQ community in Sri Lanka?**
 
@@ -69,4 +69,4 @@ I believe that some international pressure has to be brought on Sri Lanka in ord
 
 Public sentiment is changing and the Zonta award was an indication of that.
 
-This year we had the biggest Pride ever, with more participation from across the community than ever before. Even so, I sometimes feel like everything we do is just the tip of the iceberg. People from all over the country do come to Colombo Pride, but we’ve only taken it to a few regional areas so far, because of limited resources. By the time we finish Pride we are so bloody exhausted, we just want to curl up and sleep. But we have so much work to do–the work never stops!
+This year we had the biggest Pride ever, with more participation from across the community than ever before. Even so, I sometimes feel like everything we do is just the tip of the iceberg. People from all over the country do come to Colombo Pride, but we’ve only taken it to a few regional areas so far, because of limited resources. By the time we finish Pride we are so bloody exhausted, we just want to curl up and sleep. But we have so much work to do – the work never stops!

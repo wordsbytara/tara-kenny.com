@@ -3,7 +3,7 @@ title: My Complex Relationship with Selfies
 date: 2017-09-26T02:07:03.000Z
 category: essays
 ---
-_Originally published in print in [Eat If You're Hungry zine](https://www.instagram.com/eatifyouarehungry_zine/), then online in [Liminal, September 25 2017](https://www.liminalmag.com/blog/my-complex-relationship-with-selfies?rq=tara%20kenny)_
+*Originally published in print in [Eat If You're Hungry zine](https://www.instagram.com/eatifyouarehungry_zine/), then online in [Liminal, September 25 2017](https://www.liminalmag.com/blog/my-complex-relationship-with-selfies?rq=tara%20kenny)*
 
 I have a long, complex and fraught relationship with selfies and my Internet self (who has been a @worthlesslump, an @angel_dumping, a @tropical_wageslave and the new me, @village_wench). I’m flabbergasted that some people just use their normal names for Instagram, but I guess it’s a free world wide web.
 

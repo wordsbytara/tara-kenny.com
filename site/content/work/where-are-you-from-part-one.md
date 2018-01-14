@@ -1,14 +1,13 @@
 ---
 title: Where Are You From? Part One
-date: 2016-10-01T19:23:33-04:00
+date: 2016-10-01T23:23:33.000Z
 category: interviews
 ---
-**Originally publiushed in Ladies of Leisure, October 2016**
+_Originally published in [Ladies of Leisure](http://soon.ladiesofleisurezine.com/), October 2016_
+
+_The first in a three part series of conversations around cultural identity led by Tara Kenny and Ru Kwok. Images by Ru Kwok._
 
 ![null](/img/wayf-tara-k1.jpg)
-
-_A series of conversations led by Tara Kenny and Ru Kwok
-Images by Ru Kwok_
 
 “Where are you from? Are you from Persia?” 
 
@@ -24,13 +23,13 @@ There is a Danish word – hygge – as difficult to pronounce, as it is to full
 
 ![null](/img/wayf-tara-k4-2.jpg)
 
-Diversity is far and away the thing I value most about this country, yet when I think “authentic” Australia I conjure the cast of Home and Away, Bindi Irwin, Puberty Blues, and the blonde and blue eyed James’ and Stephanie’s of my white-bred primary school who assured me not to worry because I’m apparently not “really Asian, though”. It stings to realise how deeply I have internalised this white Australia that never really was, how firmly it has embedded and crystallised in my subconscious mind. But how to relocate myself – and other Asian Australians who might feel it too – within this narrative of “authentic” Australia? An attempt to acknowledge and explore the similarities, differences, complexities and textures of the Asian Australian experience seems like a good place to start. So, where are you from?
-
-**Spencer Lai**
+Diversity is far and away the thing I value most about this country, yet when I think “authentic” Australia I conjure the cast of _Home and Away_, Bindi Irwin, _Puberty Blues_, and the blonde and blue eyed James’ and Stephanie’s of my white-bred primary school who assured me not to worry because I’m apparently not “really Asian, though”. It stings to realise how deeply I have internalised this white Australia that never really was, how firmly it has embedded and crystallised in my subconscious mind. But how to relocate myself – and other Asian Australians who might feel it too – within this narrative of “authentic” Australia? An attempt to acknowledge and explore the similarities, differences, complexities and textures of the Asian Australian experience seems like a good place to start. So, where are you from?
 
 ![null](/img/wayfspencer1b_1000.jpg)
 
 _Painting credit: The Face, 2013 by Joshua Stevens_
+
+**Spencer Lai**
 
 **Tara Kenny: Hey Spencer. Firstly, what is your cultural heritage? Also, is that a question you are asked often, and how do you interpret it?**
 
@@ -40,7 +39,7 @@ I used to be okay with the question but now it depends how it’s asked: context
 
 Because I’ve spent time in western countries white people sometimes see me as a neutralised Asian. It’s like, so you’ve been trained?
 
-I have a very complex understanding of my home and my origins. I was born in Sarawak in Malaysia, which is a very small city, basically in the tropics. I lived there until I was four or five, then moved to Bangkok and went to a British international school. I moved to Australia when I was 10 or 12 and lived here until I was 16. I went to the Middle East for four years, then came back here. My “Asianess” is linked to my father and his side of the family, who I actually don’t see anymore. 
+I have a very complex understanding of my home and my origins. I was born in Sarawak in Malaysia, which is a very small city, basically in the tropics. I lived there until I was four or five, then moved to Bangkok and went to a British international school. I moved to Australia when I was 10 or 12 and lived here until I was 16. I went to the Middle East for four years, then came back here. My “Asianness” is linked to my father and his side of the family, who I actually don’t see anymore. 
 
 **TK: Do you feel a strong connection your Chinese-Malay side regardless, or not really?**
 
@@ -56,7 +55,7 @@ I was always quite feminine as a kid, which they kind of chose to ignore. I thin
 
 **TK: This question might be a little different for you having lived in so many places, but how do you relate to your “Asianness” versus “Australianness”?**
 
-**SL:** I’m definitely Australian and I understand Australian culture, to an extent. I’m very close to my mother and her side of the family, who are Australian. I was here when I was a teenager; I think those years are very formative. Do I feel connected to Australian culture? I live in Australia and that in it self makes me Australian, but I’m also Chinese. I think belonging and where you live are two different things sometimes. 
+**SL:** I’m definitely Australian and I understand Australian culture, to an extent. I’m very close to my mother and her side of the family, who are Australian. I was here when I was a teenager; I think those years are very formative. Do I feel connected to Australian culture? I live in Australia and that in itself makes me Australian, but I’m also Chinese. I think belonging and where you live are two different things sometimes. 
 
 **TK: Certainly. Another thing I want to discuss are the VERY white beauty ideals presented in the Australian media. I think they’re improving a little bit now, but media representation compared to the amount of non-white people in Australian society is still so minor. I’m wondering if that impacted your self-perception when you were growing up, or now?**
 
@@ -72,6 +71,6 @@ When I was in high school in the Middle East everyone was highly educated and re
 
 ![null](/img/wayf-spencer4.jpg)
 
-Spencer Lai is a practicing artist. They work and live in Melbourne. Follow Spencer on Instagram _[_here_](https://www.instagram.com/babeydivorce/?hl=en)_ and see more of their work _[_here_](https://www.spencerlai.info/)_._
+**Spencer Lai** is a practicing artist. They work and live in Melbourne. Follow Spencer on Instagram [here](https://www.instagram.com/babeydivorce/?hl=en) and see more of their work [here](https://www.spencerlai.info/).
 
-Ru Kwok is a multi-disciplinary creative. Since completing a Bachelor of Fashion Design at RMIT Ru has been collaborating and producing work concerned with female representation and identity. You can find her [here ](https://www.instagram.com/ru_y_k/?hl=en)and contact her at ru.y.kwok@gmail.com.
+**Ru Kwok** is a multi-disciplinary creative. Since completing a Bachelor of Fashion Design at RMIT Ru has been collaborating and producing work concerned with female representation and identity. You can find her [here ](https://www.instagram.com/ru_y_k/?hl=en)and contact her at ru.y.kwok@gmail.com.

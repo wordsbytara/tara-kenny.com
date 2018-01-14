@@ -1,5 +1,5 @@
 ---
-title: 'Rosanna Flamer-Caldera, Sri Lankan LGBTIQ rights activist'
+title: 'Rosanna Flamer-Caldera: Sri Lankan LGBTIQ rights activist'
 date: 2017-11-06T04:39:46.000Z
 category: interviews
 ---

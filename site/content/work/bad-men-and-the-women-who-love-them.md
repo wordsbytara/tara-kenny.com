@@ -85,7 +85,7 @@ _Downfall_ is a movie set in Hitler’s bunker that’s pretty good.
 
 **LEW:** Women who have committed crimes are usually presented as either femme fatales or monsters. Some of these women are iconic and people have set ideas about them; I wanted to see what was behind that. 
 
-**TK: Did you feel that as you researched you came to a conclusion about how people become embroiled in these situations or is it more like “oh life”? **
+**TK: Did you feel that as you researched you came to a conclusion about how people become embroiled in these situations or is it more like “oh life”?**
 
 **LEW:** They were all very different people. I think I’m interested in people who do bad things but don’t have terrible childhoods, people who have a nice family and things like that. 
 
@@ -99,4 +99,4 @@ _Downfall_ is a movie set in Hitler’s bunker that’s pretty good.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LydZ0_3aoyw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-**The Love of a Bad Man by Laura Elizabeth Woollett is available through Scribe Publishing at Readings and other good bookstores. See more of Laura’s work **[**here**](https://lauraelizabethwoollett.com/)**.**
+*The Love of a Bad Man by Laura Elizabeth Woollett is available through Scribe Publishing at Readings and other good bookstores. See more of Laura’s work [here](https://lauraelizabethwoollett.com/).*

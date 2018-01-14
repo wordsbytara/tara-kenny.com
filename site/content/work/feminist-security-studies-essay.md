@@ -1,9 +1,9 @@
 ---
 title: Feminist Security Studies Essay
-date: 2014-06-01T18:46:34-06:00
+date: 2014-06-02T00:46:34.000Z
 category: academic
 ---
-_This essay was written in 2014 for the subject International Security as part of a Master of International Relations at the University of Melbourne._
+_This essay was written for the subject International Security, as part of a Master of International Relations at the University of Melbourne._
 
 **Critically identify and evaluate the contribution of feminist approaches to security studies.**
 

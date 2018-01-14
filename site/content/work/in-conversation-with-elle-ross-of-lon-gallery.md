@@ -1,14 +1,12 @@
 ---
-title: In Conversation with Elle Ross of LON Gallery
-date: 2016-06-01T20:30:22-04:00
+title: 'Elle Ross: Gallerist '
+date: 2016-06-02T00:30:22.000Z
 category: interviews
 ---
-_Originally published in Ladies of Leisure, June 2016_
+*Originally published in [Ladies of Leisure](http://soon.ladiesofleisurezine.com/), June 2016. Images by Ru Kwok.*
 
-![](/img/_dsc4583_1000.jpg)
+![null](/img/_dsc4583_1000.jpg)
 
-
-_Images by Ru Kwok _
 
 Four months ago photographer turned gallerist Elle Ross opened the doors of Collingwood’s LON Gallery. Not one to mince words, she told LOL what she really thinks about Melbourne's art scene, male dominated photo shoots, and being your own boss lady.
 
@@ -32,7 +30,7 @@ TK: What turned you off?
 
 ER: It’s a pretty male dominated industry. The cameras are phallic: boys and their toys. Everyone’s a dude on set and the only women are stylists, make up artists and models. There’s a weird dynamic. 
 
-![](/img/_dsc4619_1000.jpg)
+![null](/img/_dsc4619_1000.jpg)
 
 TK: This follows on to my next question, which is what your experiences as a woman in the arts have been in general?
 
@@ -92,6 +90,6 @@ TK: As in Charlotte in Sex and the City?
 
 ER: Charlotte’s my role model. Or at least for a giggle she is…
 
-![](/img/_dsc4569_1000.jpg)
+![null](/img/_dsc4569_1000.jpg)
 
 Check out LON Gallery [here](http://www.longallery.com/).

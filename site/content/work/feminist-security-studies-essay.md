@@ -33,7 +33,7 @@ Feminist curiosity and critical thinking has often turned inward, provoking unbi
 
 Early feminist security theorists worked to represent women’s security perspectives from the undervalued position of womanhood within the “man’s world, of power and conflict” (Tickner in Sjoberg 2010, p.1) of international security in the 1980s. Their unrelenting efforts have resulted in heightened prioritisation of women’s security perspectives based on an understanding that the voices, experiences and needs of women must be included in the security discourse if it is to remain relevant to human experience beyond the pages of academic journals. By pushing against narrow constructions of security that exclude women, early theorists have freed up their contemporaries to focus explorations beyond mere justification of the need for women’s voices to be included in the discussion at all. Their legacy continues to inspire a “collective future in which women and men share equally in the construction of a safer and more just world” (Ticker 1992, p.25), where both men and women are understood as deserving of security. 
 
-Reference List
+**Reference List**
 
 Brunner, E 2012, Women, Peace and Security: UN Resolution 1325 Put to the Test, Center for Security Studies, Zurich, < http://www.css.ethz.ch/publications/pdfs/CSS-Analysis-114-EN.pdf>
 

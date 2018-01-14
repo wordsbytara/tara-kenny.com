@@ -7,7 +7,7 @@ _Originally published in [Ladies of Leisure](http://soon.ladiesofleisurezine.com
 
 ![null](/img/kp_01_1000.jpg)
 
-_Poetess, rapper and DJ Kimchi Princi aka Gina Karlikoff makes catchy and endearing music for millennials who get it. Following the recent release of the _[_music video for Internet Friend_](https://www.youtube.com/watch?v=uHI2CLcyFlI)_, LOL sat down for a Skype date with Kimchi (or her avatar). Can attest that both her eyeliner and personality translate well._ 
+*Poetess, rapper and DJ Kimchi Princi aka Gina Karlikoff makes catchy and endearing music for millennials who get it. Following the recent release of the [_music video for Internet Friend_](https://www.youtube.com/watch?v=uHI2CLcyFlI), LOL sat down for a Skype date with Kimchi (or her avatar). Can attest that both her eyeliner and personality translate well.*
 
 **Tara Kenny: Hey Kimchi Princi! Can you tell me about the LOL shoot?**
 

@@ -1,5 +1,5 @@
 ---
-title: 'Montana Kitching, artist, nurse and author'
+title: 'Montana Kitching: artist, nurse and author'
 date: 2017-03-02T00:06:32.000Z
 category: interviews
 ---

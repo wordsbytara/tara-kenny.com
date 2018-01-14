@@ -3,13 +3,13 @@ title: Fat Brad
 date: 2016-09-02T01:30:07.000Z
 category: other
 ---
-![](/img/fatbrad.jpg)
+![null](/img/fatbrad.jpg)
 
 **The Project**
 
 _Fat Brad, The Cookbook_ is a definitive exploration into the on-screen eating habits of William Bradley “Brad” Pitt. Part fan fantasy, part filmic study, _Fat Brad_ meticulously reimagines the best scenes where Brad chomps. From Rusty’s carpark burger in _Ocean’s 11_ to Tyler’s questionable Seafood Bisque in _Fight Club_, no plate is left unturned. _Fat Brad_ is the first in a series of pop culture inspired cookbooks by Melbourne based collective Long Prawn. Books that feed fandom, fascinations and of course, your gut.
 
-![](/img/fatbrad_flat_lo_5.jpg)
+![null](/img/fatbrad_flat_lo_5.jpg)
 
 **My Role**
 
@@ -20,7 +20,7 @@ _“Impeccable in every sense of the word; just when the wheels fell of this pro
 **Outcomes**
 
 • Since launching at the Tokyo Art Book Fair in September
-2016, *Fat Brad*’s first run of 1000 copies has sold out.
+2016, _Fat Brad_’s first run of 1000 copies has sold out.
 
 • Online visits: 6,458 (unique)
 
@@ -30,4 +30,6 @@ _“Impeccable in every sense of the word; just when the wheels fell of this pro
 
 • Media: _Fat Brad_ has been featured in publications such as _New York Magazine_, _Paper Magazine_ and _Lucky Peach_.
 
-![](/img/fatbrad_flat_hi_7.jpg)
+![null](/img/fatbrad_flat_hi_7.jpg)
+
+Follow *Fat Brad* on Instagram [here](https://www.instagram.com/fat_brad/).

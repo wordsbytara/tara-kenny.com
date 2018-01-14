@@ -7,7 +7,7 @@ category: other
 
 **The Project**
 
-_Fat Brad, The Cookbook_ is a definitive exploration into the on-screen eating habits of William Bradley “Brad” Pitt. Part fan fantasy, part filmic study, _Fat Brad_ meticulously reimagines the best scenes where Brad chomps. From Rusty’s carpark burger in _Ocean’s 11_ to Tyler’s questionable Seafood Bisque in _Fight Club_, no plate is left unturned. _Fat Brad_ is the first in a series of pop culture inspired cookbooks by Melbourne based collective Long Prawn. Books that feed fandom, fascinations and of course, your gut.
+_Fat Brad The Cookbook_ is a definitive exploration into the on-screen eating habits of William Bradley “Brad” Pitt. Part fan fantasy, part filmic study, _Fat Brad_ meticulously reimagines the best scenes where Brad chomps. From Rusty’s carpark burger in _Ocean’s 11_ to Tyler’s questionable Seafood Bisque in _Fight Club_, no plate is left unturned. _Fat Brad_ is the first in a series of pop culture inspired cookbooks by Melbourne based collective Long Prawn. Books that feed fandom, fascinations and of course, your gut.
 
 ![null](/img/fatbrad_flat_lo_5.jpg)
 

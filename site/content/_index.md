@@ -11,7 +11,7 @@ description: >-
 
 
   Follow her on Instagram at
-  [@bespoke_bitch](https://www.instagram.com/bespoke_bitch/) and on Twitter at
+  [@comely_maiden](https://www.instagram.com/comely_maiden/) and on Twitter at
   [@wordsbytara](https://twitter.com/wordsbytara), and contact her at
   wordsbytara@gmail.com.
 ---

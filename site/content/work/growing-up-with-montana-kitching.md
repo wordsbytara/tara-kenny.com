@@ -3,9 +3,9 @@ title: 'Montana Kitching: artist, nurse and author'
 date: 2017-03-02T00:06:32.000Z
 category: interviews
 ---
-![](/img/brain zaps.jpeg)
-
 _Originally published in [Ladies of Leisure](http://soon.ladiesofleisurezine.com/) print edition three, March 2017. Artwork by Montana Kitching._
+
+_!\[](/img/brain zaps.jpeg)_
 
 _Artist, nurse and soon to be young adult non-fiction author Montana Kitching talks to Tara Kenny about Instagram fame, their shared days in the old school yard, and how to help young women navigate that feel when you’re a teenager and you don’t know what the fuck is going on._
 

@@ -1,7 +1,7 @@
 ---
 description: >-
-  Tara Kenny is a writer and researcher currently working in advocacy for youth
-  in incarceration in New York City. She is a staff writer at South Asian
+  Tara Kenny is a writer and researcher currently working in advocacy for
+  incarcerated youth in New York City. She is a staff writer at South Asian
   diaspora publication [Kajal](https://www.kajalmag.com/) and the former Online
   Editor of the Australian women’s collective [Ladies of
   Leisure](https://www.instagram.com/ladiesofleisurezine/). 

@@ -20,7 +20,7 @@ _“Impeccable in every sense of the word; just when the wheels fell of this pro
 **Outcomes**
 
 • Since launching at the Tokyo Art Book Fair in September
-2016, _Fat Brad_’s first run of 1000 copies has sold out.
+2016, _Fat Brad_ has sold out of its first run of 1000 copies.
 
 • Online visits: 6,458 (unique)
 

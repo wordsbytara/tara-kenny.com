@@ -5,7 +5,7 @@ category: interviews
 ---
 [_Originally published in Liminal Magazine, April 2018._](https://www.liminalmag.com/blog/emma-do)
 
-_Emma Do is a Melbourne-based freelance writer with a focus on fashion and culture, and the sometimes sticky, always compelling places they intersect. She is the co-founder of Smart Casual podcast. Emma has been published in _[_Broadsheet_](https://www.broadsheet.com.au/national/fashion/article/disdain-conservative-australian-menswear-amxander-arrives)_, _[_i-D_](https://i-d.vice.com/en_au/article/zmnxbx/this-photo-series-captures-what-microaggressions-feel-like)_, _[_VICE_](https://www.vice.com/en_au/article/exqbje/the-people-making-money-off-chinas-grey-market-for-australian-baby-formula)_ and _[_Complex_](https://www.complex.com/pop-culture/2016/01/girls-on-top-instagram-impact-on-nsfw-images/)_._
+_Emma Do is a Melbourne-based freelance writer with a focus on fashion and culture, and the sometimes sticky, always compelling places they intersect. She is the co-founder of Smart Casual podcast. Emma has been published in Broadsheet, i-D, VICE, and Complex._
 
 _Emma spoke to Tara about writing fashion through a critical lens, co-founding the Smart Casual Podcast, and using creative outlets to avoid being forced to become an accountant._
 
@@ -102,3 +102,5 @@ Aside from that, taking time to cook, spending time with friends, playing piano 
 **What does being Asian-Australian mean to you?**
 
 That silent look of acknowledgement and solidarity we give each other when we’re the only POC in the room. Constantly learning my cultural history and the history of other Asian Australians. Learning the Indigenous history Australia has tried so hard to erase. Understanding how white supremacy pits us all against each other.
+
+[**Smart Casual Podcast**](https://www.facebook.com/smartcasualpodcast/)**, **[**@emsydo**](https://twitter.com/emsydo)** & **[**emmaqdo.wordpress.com**](https://emmaqdo.wordpress.com/)**.**

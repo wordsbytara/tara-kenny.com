@@ -3,7 +3,7 @@ title: 'Book Review: The Life to Come by Michelle De Kretser'
 date: 2018-06-14T23:16:17.934Z
 category: essays
 ---
-[_Originally published on Kajal Magazine, May 2018._](https://www.kajalmag.com/michelle-de-kretsers-the-life-to-come/) 
+[_Originally published in Kajal Magazine, May 2018._](https://www.kajalmag.com/michelle-de-kretsers-the-life-to-come/) 
 
 Michelle De Kretser’s [_The Life to Come_] (https://www.allenandunwin.com/browse/books/fiction/literary-fiction/The-Life-to-Come-Michelle-de-Kretser-9781760296568), released last September, is the Sri Lankan-Australian Miles Franklin Award winning author’s fifth full length novel.
 

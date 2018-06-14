@@ -3,11 +3,11 @@ title: 'Tommy Pico: Poet'
 date: 2018-06-14T21:00:08.140Z
 category: interviews
 ---
-_T_
+_Originally published in _[_Interview Magazine_](https://www.interviewmagazine.com/culture/tommy-pico-native-american-beyonce-loving-poet)_, March 2018. _
 
 ![Image by Niqui Carter.](/img/tommypico.jpg)
 
-_ommy Pico’s poetry will have you nodding along at the questionable “onslaught of James Franco” or the perils of OKCupid in one breath, and confronting the trauma of genocide the next. To date, he’s the author of three book-length poems. IRL \[2016] is a rumination on what it means to be queer, Native American and obsessed with “boys, burgers, booze.” Nature Poem \[2017] turns colonial “noble savage” stereotypes on their head. Now comes Junk, a break up poem exploring personal and cultural loss, Janet Jackson, and nacho cheese, which is set for release this May._
+_Tommy Pico’s poetry will have you nodding along at the questionable “onslaught of James Franco” or the perils of OKCupid in one breath, and confronting the trauma of genocide the next. To date, he’s the author of three book-length poems. IRL \[2016] is a rumination on what it means to be queer, Native American and obsessed with “boys, burgers, booze.” Nature Poem \[2017] turns colonial “noble savage” stereotypes on their head. Now comes Junk, a break up poem exploring personal and cultural loss, Janet Jackson, and nacho cheese, which is set for release this May._
 
 _Pico originally left the Viejas Indian reservation of the Kumeeyay Nation to study pre-med at Sarah Lawrence, hoping to return to the reservation to address some of the health problems he grew up surrounded by. Instead, he spent his twenties pioneering the artist collective Birdsong, making zines, publishing his poetry on Tumblr, and honing his performance skills through “exposure therapy.”_
 

@@ -1,5 +1,5 @@
 ---
-title: 'Emma Do: writer and podcaster'
+title: 'Emma Do: Writer and Podcaster'
 date: 2018-06-14T21:27:40.940Z
 category: interviews
 ---

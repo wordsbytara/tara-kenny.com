@@ -3,9 +3,9 @@ title: 'Thanushka Yakupitiyage: Activist, Cultural Organizer and DJ'
 date: 2018-06-14T22:19:11.059Z
 category: interviews
 ---
-[_Originally published in Kajal Magazine, June 2018._](https://www.kajalmag.com/thanushka-yakupitiyage-protests-to-dancefloors/) 
+[_Originally published in Kajal Magazine, June 2018._](https://www.kajalmag.com/thanushka-yakupitiyage-protests-to-dancefloors/) _Image by Tavish Timothy._
 
-![](/img/thanu-9883.jpg)
+![null](/img/thanu-9883.jpg)
 
 _Thanushka Yakupitiyage (Thanu by day, Ushka by night) is a Sri Lankan born immigrant rights activist, cultural organizer, and DJ based in New York. She leads the U.S. communications work at climate justice organization 350.org by day, and DJs and runs the QTPOC, immigrant centered party iBomba by night. Kajal caught up with Thanu to discuss the complexities of postwar Sri Lanka, why climate justice is an immigrant rights issue, and creating a vision of the world you want to see on the dancefloor._
 

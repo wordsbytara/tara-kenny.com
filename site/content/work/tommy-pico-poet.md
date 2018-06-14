@@ -3,7 +3,7 @@ title: 'Tommy Pico: Poet'
 date: 2018-06-14T21:00:08.140Z
 category: interviews
 ---
-Originally published in [Interview Magazine](https://www.interviewmagazine.com/culture/tommy-pico-native-american-beyonce-loving-poet), March 2018.
+_Originally published in _[_Interview Magazine_](https://www.interviewmagazine.com/culture/tommy-pico-native-american-beyonce-loving-poet)_, March 2018._
 
 ![Image by Niqui Carter.](/img/tommypico.jpg)
 

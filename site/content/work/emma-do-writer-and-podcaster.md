@@ -103,4 +103,4 @@ Aside from that, taking time to cook, spending time with friends, playing piano 
 
 That silent look of acknowledgement and solidarity we give each other when we’re the only POC in the room. Constantly learning my cultural history and the history of other Asian Australians. Learning the Indigenous history Australia has tried so hard to erase. Understanding how white supremacy pits us all against each other.
 
-[**Smart Casual Podcast**](https://www.facebook.com/smartcasualpodcast/)**, **[**@emsydo**](https://twitter.com/emsydo)** & **[**emmaqdo.wordpress.com**](https://emmaqdo.wordpress.com/)**.**
+Listen to Emma on [Smart Casual Podcast](https://www.facebook.com/smartcasualpodcast/), and follow her on [Twitter](https://twitter.com/emsydo) and [Wordpress](https://emmaqdo.wordpress.com/).

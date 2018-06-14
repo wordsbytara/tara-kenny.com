@@ -29,4 +29,4 @@ It’s this sheer range of subject matter and influences – Pico cites both A.R
 
 In a time when “America wants its NDNs weary, slumped over the broken horse, spear sliding into the dry grass”, Pico serves “NDN joy NDN laughter NDN freedom” alongside the heartache, defying categorization. Don’t bother trying to fully understand or even savor _Junk_, just hungrily devour, pause, and do it all again.
 
-[Junk is available through through Tin House.](http://tinhouse.com/product/junk/)
+[Junk is available through Tin House.](http://tinhouse.com/product/junk/)

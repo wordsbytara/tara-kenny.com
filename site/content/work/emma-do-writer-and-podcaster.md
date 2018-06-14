@@ -3,7 +3,9 @@ title: 'Emma Do: writer and podcaster'
 date: 2018-06-14T21:27:40.940Z
 category: interviews
 ---
-[_Originally published in Liminal Magazine, April 2018._](https://www.liminalmag.com/blog/emma-do)
+[_Originally published in Liminal Magazine, April 2018._](https://www.liminalmag.com/blog/emma-do)_ Images by Leah Jing. _
+
+![](/img/emma do.jpg)
 
 _Emma Do is a Melbourne-based freelance writer with a focus on fashion and culture, and the sometimes sticky, always compelling places they intersect. She is the co-founder of Smart Casual podcast. Emma has been published in Broadsheet, i-D, VICE, and Complex._
 
@@ -40,6 +42,8 @@ I was startled that I didn’t know this piece of my community history. I was bo
 There is a tendency to only talk about exploitation of workers in the garment industry as something that happens overseas, but it happened in Australia for a long time. Despite federal legislation enacted in 2011 to protect vulnerable outworkers (contractors who sew from their own home) from being exploited, there are still workers who fly under the radar here. I heard a story about a woman who worked as a contractor from her garage for her entire life, and only a year ago did she get a job with a full-time salary—her skills finally recognised. It was heartbreaking.
 
 Getting interviews with the people who worked or still work in this part of the industry has proven tough. For some people, their sewing job was physically demanding and low paid work—even shameful—and they don’t want to revisit those memories. Others don’t see what’s so special about their job that’s worth talking about, let alone documenting. I’m so grateful to the people who have opened up to me so far.
+
+![](/img/emma do 2.jpg)
 
 **The second time I interviewed you was for a university project about identity and belonging amongst first generation Australians, which is very relevant to this discussion! How does your cultural heritage inform your sense of identity?**
 
@@ -102,5 +106,7 @@ Aside from that, taking time to cook, spending time with friends, playing piano 
 **What does being Asian-Australian mean to you?**
 
 That silent look of acknowledgement and solidarity we give each other when we’re the only POC in the room. Constantly learning my cultural history and the history of other Asian Australians. Learning the Indigenous history Australia has tried so hard to erase. Understanding how white supremacy pits us all against each other.
+
+![](/img/emma do 3.jpg)
 
 Listen to Emma on [Smart Casual Podcast](https://www.facebook.com/smartcasualpodcast/), and follow her on [Twitter](https://twitter.com/emsydo) and [Wordpress](https://emmaqdo.wordpress.com/).

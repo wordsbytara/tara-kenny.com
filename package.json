@@ -51,7 +51,7 @@
     "whatwg-fetch": "^1.0.0"
   },
   "devDependencies": {
-	  "lodash":"4.17.12",
+	  "lodash":"4.17.13",
     "gulp-inject": "^4.2.0",
     "gulp-svgmin": "^1.2.3",
     "gulp-svgstore": "^6.1.0",

@@ -3,9 +3,9 @@ title: 'Laura Elizabeth Woollett: author'
 date: 2016-08-02T00:36:39.000Z
 category: writing
 ---
-_Originally published in [Ladies of Leisure](http://soon.ladiesofleisurezine.com/). Visuals via Scribe and Laura Elizabeth Woollett._
+_Originally published in Ladies of Leisure. _
 
-![null](/img/the-love-of-a-bad-man-image_1000.png)
+_<iframe width="560" height="315" src="https://www.youtube.com/embed/LydZ0_3aoyw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>_
 
 _Laura Elizabeth Woollett’s recently released collection of short stories The Love of a Bad Man explores women throughout history who have loved “bad men”. By “bad” Woollett doesn’t mean a ragamuffin in a leather jacket who rides a motorbike – we’re talking Charles Manson, Hitler and Jim Jones. LOL spoke to the over accomplished 26-year-old writer about her long running fascination with the macabre, interviewing survivors of the Jonestown massacre, and the limitations of portraying women who do bad things as either femme fatales or monsters._
 
@@ -97,6 +97,4 @@ _Downfall_ is a movie set in Hitler’s bunker that’s pretty good.
 
 **LEW:** It was challenging to think of how to present these women who have done such awful things. There were a few cases were they were pretty remorseless – Karla Homolka and Catherine Birnie – I wondered how to present them.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LydZ0_3aoyw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-*The Love of a Bad Man by Laura Elizabeth Woollett is available through Scribe Publishing at Readings and other good bookstores. See more of Laura’s work [here](https://lauraelizabethwoollett.com/).*
+_The Love of a Bad Man by Laura Elizabeth Woollett is available through Scribe Publishing at Readings and other good bookstores. See more of Laura’s work [here](https://lauraelizabethwoollett.com/)._

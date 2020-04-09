@@ -1,7 +1,7 @@
 ---
 title: 'Manufacturing Hipsterism: Beyond ''Melbourne Man-gate'''
 date: 2016-10-06T02:35:45.000Z
-category: essays
+category: writing
 ---
 [_Originally published in Overland, October 5 2016_](https://overland.org.au/2016/10/manufacturing-hipsterism-behind-melbourne-man-gate/)
 
@@ -27,4 +27,4 @@ While Davide created a division between those who allegedly got the joke and tho
 
 Possible defences of artistic license aside, outrage at the alleged fabrication of Davide’s identity raised interesting questions about what differentiates an authentic self from a phoney. Is it the donning of an outlandish item of clothing, or the addition of an extraneous ‘e’ in your middle name? Everyone I have ever interviewed – and perhaps conversed with – has attempted to present a specific version of their true self. Isn’t that a large part of what being a human is all about? I marvel at the media’s willingness to seriously assess Davide’s authenticity based on a five-question vox pop, as if such a format is capable of capturing the entirety of a person. Perhaps the difference here is that the real Sam Hains is enough of a weirdo to spawn an alter ego that captures the collective consciousness. After all, I wasn’t lying when I described Davide as ‘magnetic’ and he IS a jazz kitten. At the end of the day, I’m not sure where the real Sam ends and Davide begins. I don’t think it matters.
 
-Two months on from Davide’s five minutes of fame, the paparazzi have retreated and the spotlight has well and truly dimmed. Where some old hat journos keen to cash in on the ‘viral kids’ suggested Sam and I write a satirical column from the vantage point of Davide, I’m not sure he has anything more to say. It is time to lay our hilarious but demonic little love child to rest. RIP Davide. I never really knew you, yet a little piece of you lives on inside of all of us. The only question that remains is can I still wear my pink beret?
+Two months on from Davide’s five minutes of fame, the paparazzi have retreated and the spotlight has well and truly dimmed. It is time to lay our hilarious but demonic little love child to rest. RIP Davide. I never really knew you, yet a little piece of you lives on inside of all of us. The only question that remains is can I still wear my pink beret?

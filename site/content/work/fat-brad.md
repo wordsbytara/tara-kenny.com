@@ -13,7 +13,7 @@ _Fat Brad The Cookbook_ is a definitive exploration into the on-screen eating ha
 
 **My Role**
 
-I assisted in the writing and editing of the prologue and introductions for 17 recipes in collaboration with the Long Prawn team. 
+I assisted in writing and editing the prologue and introductions for 17 recipes in collaboration with the Long Prawn team. 
 
 _“Impeccable in every sense of the word; just when the wheels fell of this project, Tara was there to clarify and distill our words. 10/10”_ – Long Prawn
 

@@ -1,13 +1,13 @@
 ---
-title: 'Kimchi Princi: poetess, rapper, DJ'
+title: 'Kimchi Princi: poet, rapper, DJ'
 date: 2016-09-02T00:45:14.000Z
-category: interviews
+category: writing
 ---
-_Originally published in [Ladies of Leisure](http://soon.ladiesofleisurezine.com/), September 2016. Images by Elliott Lauren._
+_Originally published in Ladies of Leisure, September 2016. Images by Elliott Lauren._
 
 ![null](/img/kp_01_1000.jpg)
 
-*Poetess, rapper and DJ Kimchi Princi aka Gina Karlikoff makes catchy and endearing music for millennials who get it. Following the recent release of the [_music video for Internet Friend_](https://www.youtube.com/watch?v=uHI2CLcyFlI), LOL sat down for a Skype date with Kimchi (or her avatar). Can attest that both her eyeliner and personality translate well.*
+_Poet, rapper and DJ Kimchi Princi aka Gina Karlikoff makes catchy and endearing music for millennials who get it. Following the recent release of the [_music video for Internet Friend_](https://www.youtube.com/watch?v=uHI2CLcyFlI), LOL sat down for a Skype date with Kimchi (or her avatar). Can attest that both her eyeliner and personality translate well._
 
 **Tara Kenny: Hey Kimchi Princi! Can you tell me about the LOL shoot?**
 
@@ -29,7 +29,7 @@ _Originally published in [Ladies of Leisure](http://soon.ladiesofleisurezine.com
 
 **TK: That’s refreshing! Do you remember who your first \~Internet friend\~ was?**
 
-**KP:** Yes, I stalked him on Facebook the other day! When I was about 16 or 17 I used to upload poetry to Soundcloud. My sister watched this documentary on synesthesia and told me about this boy who was translating the colours of *Where the Wild Things Are* into piano music just by looking at the book. I found him on Soundcloud and we started sending emails to each other about our lives. 
+**KP:** Yes, I stalked him on Facebook the other day! When I was about 16 or 17 I used to upload poetry to Soundcloud. My sister watched this documentary on synesthesia and told me about this boy who was translating the colours of _Where the Wild Things Are_ into piano music just by looking at the book. I found him on Soundcloud and we started sending emails to each other about our lives. 
 
 **TK: OMG, cute!**
 
@@ -41,7 +41,7 @@ _Originally published in [Ladies of Leisure](http://soon.ladiesofleisurezine.com
 
 **KP:** My parents have never really known exactly what my sister and I do. My mum doesn’t get it, and doesn’t approve either. She has a pretty traditional view of work and wonders why I "sing and dance and how much they pay". Having said that she’s from a very small town in Korea called Waegwan, which has a very different mindset to Sydney or Seoul. 
 
-**TK: I spent four months in Seoul on a student exchange and loved it so much. Have you been to Waegwan?**
+**TK: Have you been to Waegwan?**
 
 **KP:** Yup! As a kid we would often visit during the summer holidays and, as much as I regret this now, I kinda resented it then. Because our Mum was “foreign” I grew up wanting to be white and remember feeling embarrassed when she spoke Korean to us in public. Now that I’m older I’ve really come to love South Korea and my family there. 
 

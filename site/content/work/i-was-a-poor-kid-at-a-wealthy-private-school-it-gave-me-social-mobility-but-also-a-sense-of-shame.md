@@ -3,7 +3,7 @@ title: >-
   I was a Poor Kid at a Wealthy Private School. It Gave me Social Mobility, but
   Also a Sense of Shame
 date: 2017-06-18T02:14:57.000Z
-category: essays
+category: writing
 ---
 [_Originally published in the Guardian, June 25 2017_](https://www.theguardian.com/education/2017/jun/18/i-was-a-poor-kid-at-a-wealthy-private-school-it-gave-me-social-mobility-but-also-a-sense-of-shame)
 

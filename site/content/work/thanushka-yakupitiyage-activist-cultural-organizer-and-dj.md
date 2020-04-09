@@ -1,7 +1,7 @@
 ---
 title: 'Thanushka Yakupitiyage: Activist, Cultural Organizer and DJ'
 date: 2018-06-14T22:19:11.059Z
-category: interviews
+category: writing
 ---
 [_Originally published in Kajal Magazine, June 2018._](https://www.kajalmag.com/thanushka-yakupitiyage-protests-to-dancefloors/) _Image by Tavish Timothy._
 

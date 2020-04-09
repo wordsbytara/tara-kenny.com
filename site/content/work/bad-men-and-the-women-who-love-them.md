@@ -3,9 +3,9 @@ title: 'Laura Elizabeth Woollett: author'
 date: 2016-08-02T00:36:39.000Z
 category: writing
 ---
-_Originally published in Ladies of Leisure. _
+_Originally published in Ladies of Leisure._
 
-_<iframe width="560" height="315" src="https://www.youtube.com/embed/LydZ0_3aoyw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>_
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LydZ0_3aoyw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 _Laura Elizabeth Woollett’s recently released collection of short stories The Love of a Bad Man explores women throughout history who have loved “bad men”. By “bad” Woollett doesn’t mean a ragamuffin in a leather jacket who rides a motorbike – we’re talking Charles Manson, Hitler and Jim Jones. LOL spoke to the over accomplished 26-year-old writer about her long running fascination with the macabre, interviewing survivors of the Jonestown massacre, and the limitations of portraying women who do bad things as either femme fatales or monsters._
 

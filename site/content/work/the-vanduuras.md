@@ -1,19 +1,17 @@
 ---
 title: The Vanduuras
 date: 2017-10-16T22:03:27.000Z
-category: fiction
+category: writing
 ---
-*[First published in Scum Magazine, October 16 2017](https://www.scum-mag.com/the-vanduuras/)*
-
-![](/img/20161203_192826-1050x788.jpg)
+_[First published in Scum Magazine, October 16 2017](https://www.scum-mag.com/the-vanduuras/)_
 
 The monkeys in Sri Lanka are something else. Sometimes you catch these sweet and tender moments between monkey families: mum, dad and baby all cuddling up together on a rock grooming one another and having a picnic. Just trying to spend some quality time.
 
 Then some tourist enters stage left and shoves an iPhone in their faces, hungry for that wholesome content. It makes me nervous that one of the monkeys, understandably enraged on account of the disturbance to their leisure time, is going to do something they’ll regret. It’s not worth it, mate.
 
-I’ve heard that some monkeys are so advanced that they’ve taught themselves how to catch the train to the busy tourist areas, where they pilfer food and water from whiteys. They know what they want and they aren’t afraid to go out and get it, an asset in any boardroom. I picture the monkeys on their way to work on a Monday morning with a strong soy latte ready to clock on for a long shift, all like, ‘Wow work stinks, I wish I could stay in bed all day watching *The Sopranos*. I hope someone brought something decent for morning tea, not that fucking banana slice again…’
+I’ve heard that some monkeys are so advanced that they’ve taught themselves how to catch the train to the busy tourist areas, where they pilfer food and water from whiteys. They know what they want and they aren’t afraid to go out and get it, an asset in any boardroom. I picture the monkeys on their way to work on a Monday morning with a strong soy latte ready to clock on for a long shift, all like, ‘Wow work stinks, I wish I could stay in bed all day watching _The Sopranos_. I hope someone brought something decent for morning tea, not that fucking banana slice again…’
 
-I sit down to do some work in peace, when I spy a couple of monkeys on the roof of the house next door. I forget who I am for a moment and go out to capture some footage, fancying myself an amateur David Attenborough. A monkey clocks me, bare its fangs, and start running in my direction. I scramble inside, dropping my phone in all the excitement. The footage is very *Blair Witch Project*, all shaky hands and screams of fear, and then the screen goes blank.
+I sit down to do some work in peace, when I spy a couple of monkeys on the roof of the house next door. I forget who I am for a moment and go out to capture some footage, fancying myself an amateur David Attenborough. A monkey clocks me, bare its fangs, and start running in my direction. I scramble inside, dropping my phone in all the excitement. The footage is very _Blair Witch Project_, all shaky hands and screams of fear, and then the screen goes blank.
 
 I lock the doors, hide all visible edibles, and try to keep a low profile, but the monkeys grow increasingly antagonistic.
 

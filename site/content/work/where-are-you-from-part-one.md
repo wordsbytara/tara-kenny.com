@@ -3,7 +3,7 @@ title: Where Are You From? Part One
 date: 2016-10-01T23:23:33.000Z
 category: interviews
 ---
-_Originally published in [Ladies of Leisure](http://soon.ladiesofleisurezine.com/), October 2016_
+_Originally published in [Ladies of Leisure](https://www.ladiesofleisurezine.com/article/where-are-you-from), October 2016_
 
 _The first in a three part series of conversations around cultural identity led by Tara Kenny and Ru Kwok. Images by Ru Kwok._
 

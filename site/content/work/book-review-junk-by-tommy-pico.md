@@ -19,7 +19,7 @@ Turns out, junk is also great for filling the void of personal and intergenerati
 
 The candy, condiments, and crushes are free flowing, but so is Pico’s persistent sense of existential dread and shame – “like an Energizer battery it keeps going, and going, and going.” Somehow, through the pain of being discarded, and the seemingly relentless torrent of crushing news à la displaced refugees, shootings, and natural disasters, Pico endures.
 
-Like a fever dream or particularly crushing break up, _Junk_ will leave you discombobulated and reeling to make sense of it all. Yet, when the heaviness gets a little too much to bear, the reader finds reprieve in one of _Junk_’s many hilarious one-liners: indeed, “the grief is loud, but laffs are louder.”
+Like a fever dream or particularly crushing break up, _Junk_ will leave you discombobulated and reeling to make sense of it all. Yet, when the heaviness gets a little too much to bear, the reader finds reprieve in one of _Junk's_ many hilarious one-liners: indeed, “the grief is loud, but laffs are louder.”
 
 Similarly to Pico’s previous works _IRL_ (2016) and _Nature Poem_ (2017), _Junk_ deftly pulls disparate topics together – Janet Jackson, Islamophobia, the bitchiness of New York’s gay hook up scene, America’s collective historical amnesia, farting on planes – to form a cohesive whole. Take this passage, which begins with terrorism and ends on fad diets without missing a beat:
 

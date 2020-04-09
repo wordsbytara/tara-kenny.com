@@ -1,7 +1,7 @@
 ---
 title: 'Emma Do: Writer and Podcaster'
 date: 2018-06-14T21:27:40.940Z
-category: interviews
+category: writing
 ---
 [_Originally published in Liminal Magazine, April 2018._](https://www.liminalmag.com/blog/emma-do) _Images by Leah Jing._
 

@@ -3,7 +3,7 @@ title: 'Laura Elizabeth Woollett: author'
 date: 2016-08-02T00:36:39.000Z
 category: writing
 ---
-_Originally published in Ladies of Leisure._
+Originally published in Ladies of Leisure.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LydZ0_3aoyw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 

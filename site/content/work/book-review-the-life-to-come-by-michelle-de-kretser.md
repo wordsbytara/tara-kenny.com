@@ -1,7 +1,7 @@
 ---
 title: 'Book Review: The Life to Come by Michelle De Kretser'
 date: 2018-06-14T23:16:17.934Z
-category: essays
+category: writing
 ---
 [_Originally published in Kajal Magazine, May 2018._](https://www.kajalmag.com/michelle-de-kretsers-the-life-to-come/) 
 

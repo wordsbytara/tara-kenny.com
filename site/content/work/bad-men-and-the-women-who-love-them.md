@@ -1,7 +1,7 @@
 ---
 title: 'Laura Elizabeth Woollett: author'
 date: 2016-08-02T00:36:39.000Z
-category: interviews
+category: writing
 ---
 _Originally published in [Ladies of Leisure](http://soon.ladiesofleisurezine.com/). Visuals via Scribe and Laura Elizabeth Woollett._
 

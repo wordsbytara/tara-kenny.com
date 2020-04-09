@@ -30,22 +30,19 @@ let  toggleElement = (id) => {
   }
 }
 
-window.toggleAcademic = function() {
-  toggleElement("academic")
+window.toggleWriting = function() {
+  toggleElement("writing")
 }
 
-window.toggleEssays = function() {
-  toggleElement("essays")
+window.togglePodcast = function() {
+  toggleElement("podcast")
 }
 
-window.toggleFiction = function() {
-  toggleElement("fiction")
+window.toggleZine = function() {
+  toggleElement("zine")
 }
 
 window.toggleOther = function() {
   toggleElement("other")
 }
 
-window.toggleInterviews = function() {
-  toggleElement("interviews")
-}

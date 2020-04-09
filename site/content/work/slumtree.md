@@ -1,7 +1,7 @@
 ---
 title: Slumtree
 date: 2017-08-17T23:11:29-04:00
-category: fiction
+category: podcast
 ---
 [_First published in The Lifted Brow, August 17 2017_](https://www.theliftedbrow.com/liftedbrow/2017/8/15/slumtree-by-tara-kenny-and-rachel-ang)
 

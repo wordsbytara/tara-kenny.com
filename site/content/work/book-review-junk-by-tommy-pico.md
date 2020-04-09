@@ -1,7 +1,7 @@
 ---
 title: 'Book Review: Junk by Tommy Pico'
 date: 2018-06-14T23:02:26.915Z
-category: essays
+category: writing
 ---
 [_Originally published in Kajal Magazine, May 2018._](https://www.kajalmag.com/tommy-picos-junk-native-poetry/)
 

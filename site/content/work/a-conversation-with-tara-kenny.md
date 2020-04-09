@@ -3,7 +3,7 @@ title: A Conversation with Tara Kenny
 date: 2017-09-26T03:18:35.000Z
 category: other
 ---
-[_First published in Liminal, September 25 2017_](https://www.liminalmag.com/blog/tara-kenny?rq=tara%20kenny)
+[_First published in Liminal, September 25 2017_](https://www.liminalmag.com/interviews/tara-kenny)
 
 *Tara Kenny is a writer and editor whose work has been published in The Guardian, Overland, The Lifted Brow, Catalogue Magazine and numerous other independent publications. A true Gemini, on any given day she’ll be designing the personality for a virtual assistant powered by artificial intelligence, interviewing Asian-Australians about identity and belonging for Ladies of Leisure, or editing [a culinary ode to Brad Pitt](http://www.papermag.com/fat-brad-cook-book-brad-pitt-recipes-1987073777.html).*
 

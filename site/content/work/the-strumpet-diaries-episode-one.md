@@ -1,7 +1,7 @@
 ---
 title: 'The Strumpet Diaries: Episode One'
 date: 2018-06-14T22:46:28.056Z
-category: fiction
+category: writing
 ---
 [_Originally published in Kajal Magazine, February 2018._] (https://www.kajalmag.com/the-strumpet-diaries-episode-1/)
 

@@ -3,8 +3,6 @@ title: 'Altered Zones '
 date: '2020-04-10T16:59:17-04:00'
 category: zine
 ---
-**Altered Zones**
-
 Calling for submissions to a digital zine exploring altered physical and psychic states and spaces, born from the altered zone of quarantine.
 
 Think psychedelic states of consciousness, captivity (from government enforced isolation to big cats in Oklahoma), hypnosis, artificial environments (aquariums, shopping malls, casinos), Stockholm syndrome, psychosis, alien encounters, reality television, holotropic breathwork, and more.

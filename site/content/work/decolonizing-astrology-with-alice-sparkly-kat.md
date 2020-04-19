@@ -5,7 +5,7 @@ category: writing
 ---
 [_Originally published in Kajal Magazine in 2018._](https://www.kajalmag.com/decolonizing-astrology-with-alice-sparkly-kat/)
 
-[_Alice Sparkly Kat_](https://www.instagram.com/alicesparklykat/) is a Brooklyn based astrologer with a contemporary, cross-disciplinary practice that ranges from meticulous natal chart readings, to team building workshops, creative writing and art projects, and meme making, all with a view to decolonizing and queering astrology. Kajal staff writer Tara Kenny sat down with her to discuss the pitfalls of New Age orientalism, bringing humor to spirituality, and astrology as a vehicle to explore trauma. _
+[_Alice Sparkly Kat_](https://www.instagram.com/alicesparklykat/) _is a Brooklyn based astrologer with a contemporary, cross-disciplinary practice that ranges from meticulous natal chart readings, to team building workshops, creative writing and art projects, and meme making, all with a view to decolonizing and queering astrology. Kajal staff writer Tara Kenny sat down with her to discuss the pitfalls of New Age orientalism, bringing humor to spirituality, and astrology as a vehicle to explore trauma._
 
 **Tara Kenny:** Hi Alice! I’ve heard your approach described as “less mystical” than some other astrologers and I agree that you have a no-nonsense, contemporary style. Personally I appreciate that you do very rigorous, thorough natal chart readings but also actively engage with the hilarious internet astrology community. How would you locate yourself?
 

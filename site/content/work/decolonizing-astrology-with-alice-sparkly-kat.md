@@ -1,6 +1,6 @@
 ---
 title: Decolonizing Astrology with Alice Sparkly Kat
-date: '2020-04-19T15:01:12-04:00'
+date: '2018-11-01T15:01:12-04:00'
 category: writing
 ---
 [_Originally published in Kajal Magazine in 2018._](https://www.kajalmag.com/decolonizing-astrology-with-alice-sparkly-kat/)

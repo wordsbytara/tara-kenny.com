@@ -5,8 +5,6 @@ category: writing
 ---
 [_Originally published on the Sister Studios blog in 2018._](https://sisterstudios.com.au/blogs/journal/from-melbourne-to-new-york-and-back-again)
 
-![](/img/36611841_10160654352985215_1230750774481387520_n.jpg)
-
 _Mia Abrahams moved to New York in the spring of 2015, and returned to Melbourne just as Tara Kenny was arriving in Manhattan in the winter of 2018. After hitting it off over a night of cocktails and a gay cabaret show during Mia’s last stretch in the Big Apple, they decided to keep the flame alive by sharing their many emotions about building new new and new old lives as email pen pals._
 
 **On Sat, May 26, 2018 at 10.05 PM, Tara Kenny wrote:**

@@ -33,7 +33,7 @@ Like me, others were curious about exactly what is being tapped into during an o
 
 Psychic medium Anthon St Maarten demystifies the exchange as follows:
 
-_Psychics do not make a connection with you on this earthly plane or realm, or what we know as this reality of space and time. Instead, the connection is made in the spiritual realm. _
+_Psychics do not make a connection with you on this earthly plane or realm, or what we know as this reality of space and time. Instead, the connection is made in the spiritual realm._
 
 _Every living being past, present and future has a “spiritual address” or “soul coordinates” embedded in the Universal Field or Matrix…When I want to connect with you as a client on the other side of the world, all I need to do is link my energy with yours, almost like connecting two “psychic computers” over this “spiritual internet”._
 
@@ -51,7 +51,7 @@ After some initial correspondence in which I outlined my hopes for the session (
 
 The first thing that struck me about Marianne was her incredibly calming, dulcet voice and nurturing manner. She enquired about how I was settling into New York and my new job, before seamlessly transitioning to a direction for me to slow down my breathing and relax in order to allow her to request to make a connection to my body.
 
-_When I first make a connection with you, the words that you say feel somewhat disconnected from your body. A sensation of being overwhelmed. _
+_When I first make a connection with you, the words that you say feel somewhat disconnected from your body. A sensation of being overwhelmed._
 
 _The outcome of that is that I can’t feel your strength, and you can’t feel your strength. The third energy centre which relates to competence, confidence mastery, and ability to handle life’s challenges is feeling extremely stuck, just frozen, can’t breathe out, can’t breathe in._
 

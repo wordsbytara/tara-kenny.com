@@ -95,6 +95,8 @@ Sorry if that was so many thoughts in too many directions.
 
 xxx Mia
 
+![](/img/36734550_10160654412725215_3579171207544569856_n-1-.jpg)
+
 **On Mon, June 11, 2018 at 11.48 AM, Tara Kenny wrote:**
 
 Hey!

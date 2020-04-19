@@ -5,7 +5,7 @@ category: writing
 ---
 [_Originally published on the Sister Studios blog in July 2018._](https://sisterstudios.com.au/blogs/journal/shahana-hanif-interview-with-tara-kenny)
 
-[_Shahana Hanif_](https://www.instagram.com/shahanafrombk/?hl=en)_ is a Brooklyn born and raised Bangladeshi Muslim activist, writer and community organizer focused on disability justice and diaspora feminism. Shahana currently works for local council member Brad Lander, uses her online presence to reshape our understanding of chronic illness, and champions women’s rights in her local community, having previously focused on housing justice for Asian communities._
+_Shahana Hanif is a Brooklyn born and raised Bangladeshi Muslim activist, writer and community organizer focused on disability justice and diaspora feminism. Shahana currently works for local council member Brad Lander, uses her online presence to reshape our understanding of chronic illness, and champions women’s rights in her local community, having previously focused on housing justice for Asian communities._
 
 **Hi Shahana! You’ve written extensively about living with the autoimmune disease lupus, on your blog and elsewhere. Can you talk about how receiving that diagnosis as a young woman shaped you?**
 

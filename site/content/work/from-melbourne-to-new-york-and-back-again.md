@@ -5,6 +5,8 @@ category: writing
 ---
 [_Originally published on the Sister Studios blog in 2018._](https://sisterstudios.com.au/blogs/journal/from-melbourne-to-new-york-and-back-again)
 
+![](/img/36611841_10160654352985215_1230750774481387520_n.jpg)
+
 _Mia Abrahams moved to New York in the spring of 2015, and returned to Melbourne just as Tara Kenny was arriving in Manhattan in the winter of 2018. After hitting it off over a night of cocktails and a gay cabaret show during Mia’s last stretch in the Big Apple, they decided to keep the flame alive by sharing their many emotions about building new new and new old lives as email pen pals._
 
 **On Sat, May 26, 2018 at 10.05 PM, Tara Kenny wrote:**
@@ -20,6 +22,8 @@ I’d been to New York before, and once for three months, but New York in winter
 Lol, reading over this I sound like a TRUE sad sack, but it was hard so I stand by my despair for the most part. What about you, how were you feeling a couple of months out from leaving New York?
 
 Xxx 
+
+![](/img/img_6548.jpg)
 
 **On Mon, May 28, 2018 at 5.54 PM, Mia Abrahams wrote:**
 
@@ -38,6 +42,8 @@ One of the things that became quickly apparent to me about settling in New York 
 I'm curious, has NY started to fulfil your expectations? Or is it becoming a different city than what you imagined it would be? What was your first "oh wow this is so New York moment"? What else has surprised you about the city?
 
 x
+
+![](/img/36734019_10160654412610215_4125107940807933952_n.jpg)
 
 **On Mon, May 30, 2018 at 9.31 AM, Tara Kenny wrote:**
 
@@ -58,6 +64,8 @@ As for New York moments I sat behind Ed Sheeran at Miss Lily’s, if that counts
 I’m interested in your reflections on Australian culture with (three?) years of distance, and how you’ve generally found that transition… Are you making a new Melbourne life or sliding back into your old one? How are you adjusting to the pace, the socialising, the physical space?
 
 Tara xxxx
+
+![](/img/36887391_10157619527613275_6574336938549968896_n.jpg)
 
 **On Mon, June 10, 2018 at 8.55 PM, Mia Abrahams wrote:**
 

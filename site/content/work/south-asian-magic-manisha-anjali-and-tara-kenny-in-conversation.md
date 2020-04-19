@@ -5,9 +5,9 @@ category: writing
 ---
 [_Originally published in Kajal Magazine in 2018._](https://www.kajalmag.com/south-asian-magic-manisha-anjali/)
 
-![](/img/snakes.jpg)
+![null](/img/snakes.jpg)
 
-[_Manisha Anjali_](https://manishaanjali.com/)_ is a Melbourne-based poet and performer whose work draws heavily on Fijian-Indian mysticism and folklore from her heritage. Tara Kenny is a Kajal staff writer and woo woo enthusiast with a specific interest in Sri Lankan black magic and folklore. After connecting digitally across continents over their shared interest in South Asian magic, Manisha and Tara decided to document their family and folklore stories of poojas, hexing, astrology, demon possession, and women scorned._
+_Manisha Anjali is a Melbourne-based poet and performer whose work draws heavily on Fijian-Indian mysticism and folklore from her heritage. Tara Kenny is a Kajal staff writer and woo woo enthusiast with a specific interest in Sri Lankan black magic and folklore. After connecting digitally across continents over their shared interest in South Asian magic, Manisha and Tara decided to document their family and folklore stories of poojas, hexing, astrology, demon possession, and women scorned._
 
 **Tara Kenny:** Hi Manisha! While Sri Lankan and Fijian-Indian magic and mystical traditions no doubt diverge, I’m really excited to have found another South Asian woo woo enthusiast to swap stories with. We touched on this in [our recent conversation for Mystical Sweeties](https://soundcloud.com/tara-kenny-5/mystical-sweeties-3), but can we go over what spawned our respective interests in folklore, magic, mysticism and spiritual traditions from our heritage?
 
@@ -17,7 +17,7 @@ I had a dreamy tropical upbringing in the Fiji Islands that was seeped in folk s
 
 I was entranced by stories of sacred animals, ancient astrology, demonic possessions, reincarnation, and the afterlife. My mother has psychic dreams and visions. When I was born she saw the devil. It was the floating head of a bearded man with long black hair. He went straight into her heart! I also experienced sleep paralysis. A faceless entity would watch me in my sleep. When I told my father about it, he said that every time I felt afraid, I should recite the Gāyatrī Mantra, an ancient ode to the Sun. To avoid being possessed by the devil, all the long-haired girls would braid their hair before sundown. We all knew not to fuck with the devil.
 
-![](/img/manisha.jpg)
+![null](/img/manisha.jpg)
 
 **Tara:** I love how pervasive these stories were to every aspect of your upbringing.
 
@@ -35,7 +35,7 @@ I find that there tends to be a spectrum of “acceptable” mysticism in Sri La
 
 Once I started to take an interest, all these stories about people being hexed came out of the woodworks. A friend of mine believes her ex-husband poisoned her with a voodoo remedy that made her accept his marriage proposal, and apparently back in the day my great grandma was hexed by male shop owners because she was a \[female] business rival and so they were out to get her!
 
-![](/img/masks.jpg)
+![null](/img/masks.jpg)
 
 **Manisha:** The fear of hexes, or nazar, is one of my favorite beliefs that pervades South Asian communities. I also grew up with similar stories of curses and hexes. I was taught to avoid bragging about my accomplishments to avoid being jinxed by the evil eye. To remove nazar, take a teaspoon of salt, wave it around you three times, throw it behind your shoulder and never look back.
 

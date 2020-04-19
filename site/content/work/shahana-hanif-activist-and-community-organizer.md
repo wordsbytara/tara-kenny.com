@@ -5,11 +5,11 @@ category: writing
 ---
 [_Originally published on the Sister Studios blog in July 2018._](https://sisterstudios.com.au/blogs/journal/shahana-hanif-interview-with-tara-kenny)
 
-![](/img/megaphone.png)
+![null](/img/megaphone.png)
 
-_Shahana Hanif is a Brooklyn born and raised Bangladeshi Muslim activist, writer and community organizer focused on disability justice and diaspora feminism. Shahana currently works for local council member Brad Lander, uses her online presence to reshape our understanding of chronic illness, and champions women’s rights in her local community, having previously focused on housing justice for Asian communities. _
+[_Shahana Hanif_](https://www.instagram.com/shahanafrombk/?hl=en)_ is a Brooklyn born and raised Bangladeshi Muslim activist, writer and community organizer focused on disability justice and diaspora feminism. Shahana currently works for local council member Brad Lander, uses her online presence to reshape our understanding of chronic illness, and champions women’s rights in her local community, having previously focused on housing justice for Asian communities. _
 
-**Hi Shahana! You’ve written extensively about living with the autoimmune disease lupus, on your blog and elsewhere. Can you talk about how receiving that diagnosis as a young woman shaped you?**
+**Hi Shahana! You’ve **[**written extensively**](https://medium.com/skin-stories/lupus-on-the-seventh-day-d7684bf3b090)** about living with the autoimmune disease lupus, on your blog and elsewhere. Can you talk about how receiving that diagnosis as a young woman shaped you?**
 
 It definitely propelled me into more self and community reflection.
 
@@ -45,7 +45,7 @@ Because I was a pediatric patient I was able to get on Medicaid.
 
 For chronically ill adults, workplace health insurance is difficult. I used to work at a social justice nonprofit where I had to pay $60 for every specialist I visited, which is a lot when you’re chronically ill and earning less than $35,000. Advocacy is important for these issues. The bulk of workers don’t experience chronic illness, but we don’t have preparation or protocol for when it does happen.
 
-I use the hashtag #thesickwait to chronicle how I experience the healthcare system as a chronically ill person, even when I’m in remission or when people can’t tell I’m ill by looking at me.
+I use the hashtag [\#thesickwait](https://www.instagram.com/explore/tags/thesickwait/) to chronicle how I experience the healthcare system as a chronically ill person, even when I’m in remission or when people can’t tell I’m ill by looking at me.
 
 **Can we talk about how being visibly or invisibly ill changes how you experience the world?**
 

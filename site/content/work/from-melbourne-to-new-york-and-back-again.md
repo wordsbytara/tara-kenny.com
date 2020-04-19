@@ -1,6 +1,6 @@
 ---
 title: From Melbourne to New York and Back Again
-date: '2020-04-19T13:48:59-04:00'
+date: '2018-08-01T13:48:59-04:00'
 category: writing
 ---
 [_Originally published on the Sister Studios blog in 2018._](https://sisterstudios.com.au/blogs/journal/from-melbourne-to-new-york-and-back-again)

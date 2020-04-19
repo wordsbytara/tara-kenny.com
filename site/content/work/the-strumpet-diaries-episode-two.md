@@ -3,7 +3,7 @@ title: 'The Strumpet Diaries: Episode Two'
 date: '2018-11-30T12:07:33-05:00'
 category: writing
 ---
-[Originally published in Kajal Magazine, November 2018.](https://www.kajalmag.com/the-strumpet-diaries-episode-2/)
+[_Originally published in Kajal Magazine, November 2018._](https://www.kajalmag.com/the-strumpet-diaries-episode-2/)
 
 _Welcome to the second episode of The Strumpet Diaries, a smutty illustrated comic sure to fire up your loins and get your bratwursts throbbing, written by Tara Kenny and illustrated by Madison Griffiths._
 

@@ -7,7 +7,7 @@ category: writing
 
 ![null](/img/megaphone.png)
 
-[_Shahana Hanif_](https://www.instagram.com/shahanafrombk/?hl=en)_ is a Brooklyn born and raised Bangladeshi Muslim activist, writer and community organizer focused on disability justice and diaspora feminism. Shahana currently works for local council member Brad Lander, uses her online presence to reshape our understanding of chronic illness, and champions women’s rights in her local community, having previously focused on housing justice for Asian communities. _
+[Shahana Hanif](https://www.instagram.com/shahanafrombk/?hl=en)_ is a Brooklyn born and raised Bangladeshi Muslim activist, writer and community organizer focused on disability justice and diaspora feminism. Shahana currently works for local council member Brad Lander, uses her online presence to reshape our understanding of chronic illness, and champions women’s rights in her local community, having previously focused on housing justice for Asian communities. 
 
 **Hi Shahana! You’ve **[**written extensively**](https://medium.com/skin-stories/lupus-on-the-seventh-day-d7684bf3b090)** about living with the autoimmune disease lupus, on your blog and elsewhere. Can you talk about how receiving that diagnosis as a young woman shaped you?**
 

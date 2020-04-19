@@ -9,16 +9,16 @@ _Welcome to the second episode of The Strumpet Diaries, a smutty illustrated com
 
 _This time we follow Sensible Susan, a bored office worker who gets her after 5 jollies by imbibing on self help books and researching healing and spiritually online. One night, she stumbles across intuitive healer Mystical Magda – a vision with crystal balls for eyes and the ability to “log on to your spiritual router to inhabit your body and mind” – and her very vanilla life takes a turn for the saucy…_
 
-![](/img/unnamed-1-.jpg)
+![null](/img/unnamed-1-.jpg)
 
-![](/img/unnamed-2-.jpg)
+![null](/img/unnamed-2-.jpg)
 
-![](/img/unnamed-3-.jpg)
+![null](/img/unnamed-3-.jpg)
 
-![](/img/unnamed-4-.jpg)
+![null](/img/unnamed-4-.jpg)
 
-![](/img/unnamed-5-.jpg)
+![null](/img/unnamed-5-.jpg)
 
-![](/img/unnamed-6-.jpg)
+![null](/img/unnamed-6-.jpg)
 
-![](/img/unnamed-7-.jpg)
+![null](/img/unnamed-7-.jpg)

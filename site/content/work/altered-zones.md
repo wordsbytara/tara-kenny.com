@@ -1,7 +1,7 @@
 ---
-title: 'Altered Zones '
+title: Altered Zones zine
 date: '2020-04-10T16:59:17-04:00'
-category: zine
+category: other
 ---
 ![](/img/altered-zones.jpg)
 

@@ -1,5 +1,5 @@
 ---
-title: Fat Brad
+title: Fat Brad Cookbook
 date: 2016-09-02T01:30:07.000Z
 category: other
 ---

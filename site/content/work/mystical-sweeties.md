@@ -1,7 +1,7 @@
 ---
 title: Mystical Sweeties
 date: '2020-04-10T16:15:42-04:00'
-category: podcast
+category: other
 ---
 ![](/img/mystical-sweeties.jpg)
 

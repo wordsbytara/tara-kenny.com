@@ -1,4 +1,10 @@
 ---
-description: "I am a person who enjoys writing and lives in New York. \r\n\nFollow me [@slurpy_comrade](https://www.instagram.com/slurpy_comrade/) and feel free to reach out to wordsbytara@gmail.com."
+description: >-
+  Hello! I'm Tara Kenny, a writer based in New York. 
+
+
+  Follow me [@countess_of_slurp](https://www.instagram.com/countess_of_slurp/)
+  and [@wordsbytara](https://twitter.com/wordsbytara) and reach me at
+  wordsbytara@gmail.com.
 ---
 

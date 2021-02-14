@@ -3,10 +3,16 @@ title: Altered Zones Zine
 date: '2020-04-10T16:59:17-04:00'
 category: other
 ---
-![](/img/altered-zones.jpg)
+[Altered Zones](https://gumroad.com/alteredzones) is a digital zine exploring altered physical and psychic states and spaces, born from the altered zone of quarantine. The zine was exhibited at the first ever virtual Tokyo Art Book Fair in November 2020.
 
-Calling for submissions to a digital zine exploring altered physical and psychic states and spaces, born from the altered zone of quarantine.
+Issue 001 is a smorgasbord of weird and wonderful morsels, including guided crying exercises, Maine lobster roll flavored vapes, an initiation into the capitalist death cult, a claustrophobic quar confessional, a day at a Queensland thoroughbred auction, a use at your own risk DIY social distancing frisbee, and much, much more.
 
-Think psychedelic states of consciousness, captivity (from government enforced isolation to big cats in Oklahoma), hypnosis, artificial environments (aquariums, shopping malls, casinos), Stockholm syndrome, psychosis, alien encounters, reality television, holotropic breathwork and more.
+Designed by Sam Hains and edited by Tara Kenny, with contributions from Alice Heyward, Camilla Padgitt-Coles, Charlie Freedman, Chengtao Yi, Drew Zeiba, Georgia Spanos, Joseph Gauci-Seddon, Kelly Mill, Long Prawn, Maddison Kitching, Marcelo Lavin, Oscar Schwartz, Tara Kenny, Sam Hains and Sharada Tolton.
 
-Altered Zones welcomes pitches of writing, illustrations, video art, guided meditations, performance videos and any other experimental formats – the weirder the better! **All contributors will be paid $50 for their piece and the final zine will be available for purchase as a pdf with all sales money donated to COVID-19 relief. Please send pitches to wordsbytara@gmail.com by Monday May 1.**
+100% of proceeds from the zine are split between the [Drug Policy Alliance](drugpolicy.org) and [Drug Policy Australia](drugpolicy.org.au), with donations made in memory of Harry Hains. 
+
+![](/img/front-page.png)
+
+![](/img/drewzeiba.png)
+
+![](/img/tarakennyarticle.png)

@@ -1,5 +1,5 @@
 ---
-title: Altered Zones zine
+title: Altered Zones Zine
 date: '2020-04-10T16:59:17-04:00'
 category: other
 ---

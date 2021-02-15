@@ -4,17 +4,7 @@
 	</object>
 	<!-- Primary Nav -->
 	<div class="about-btn"><a class="no-link" href="/">About</a></div>
-
-	<div onclick="toggleWriting()" id="writing-nav-btn" class="about-btn">Writing</div>
-	{{  partial "nav-list" (dict "context" . "category" "writing")}}
-
-	<div onclick="togglePodcast()" id="podcast-nav-btn" class="about-btn">Podcast</div>
-	{{  partial "nav-list" (dict "context" . "category" "podcast")}}
-
-	<div onclick="toggleZine()" id="zine-nav-btn" class="about-btn">Zine</div>
-		{{  partial "nav-list" (dict "context" . "category" "zine")}}
-
-
+	<div class="about-btn"><a class="no-link" href="/writing">Writing</a></div>
 	<div onclick="toggleOther()" id="other-nav-btn" class="about-btn">Other</div>
 	{{  partial "nav-list" (dict "context" . "category" "other")}}
 

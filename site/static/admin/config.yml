@@ -23,8 +23,3 @@ collections: # A list of collections the CMS should be able to edit
         name: "about"
         fields:
           - {label: Description, name: description, widget: markdown}
-      - file: "site/content/_writing.md"
-        label: "Writing Page"
-        name: "writing"
-        fields:
-          - {label: Description, name: description, widget: markdown}

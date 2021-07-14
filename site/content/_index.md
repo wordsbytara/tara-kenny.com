@@ -6,7 +6,8 @@ description: >-
   zines and independent publications. 
 
 
-  Follow me [@slurpy_mogul ](https://www.instagram.com/slurpy_mogul/)and
+  Subscribe to my newsletter [Slurp It Up!](https://tarakenny.substack.com/),
+  follow me [@slurpy_mogul ](https://www.instagram.com/slurpy_mogul/)and
   [@wordsbytara](https://twitter.com/wordsbytara) and email me at
   wordsbytara@gmail.com.
 ---

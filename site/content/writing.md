@@ -5,7 +5,7 @@ type: "writing"
 
 **Non-fiction: Culture, Reviews and Essays**
 
-[Slurp It Up, a Substack](https://tarakenny.substack.com/) newsletter covering topics such as the legacy of Australian national treasure Rose Porteous, Paris Hilton’s transition from #girlboss to voice for the voiceless and the time Bill Clinton tried weed but “didn’t inhale”.
+[Slurp It Up!, ](https://tarakenny.substack.com/) an always, fun never boring newsletter on pop culture, books and woo woo.
 
 [Busting Out, Frankie Magazine](https://www.frankie.com.au/article/issue-98-is-here-554193) (print only, [sample here](https://www.scribd.com/article/479561177/Busting-Out))
 
@@ -23,11 +23,12 @@ type: "writing"
 
 **Fiction**
 
-The Strumpet Diaries, [Episode One](https://www.kajalmag.com/the-strumpet-diaries-episode-1/) and [Episode Two](https://www.kajalmag.com/the-strumpet-diaries-episode-2/), Kajal Magazine and [Episode Three, Comic Sans](https://www.liminalmag.com/blog/comic-sans?fbclid=IwAR0TJB5jctwe-uEk0-uvhtZuH9JcgZ2czawUlyk5ErasQt0gy-Xz5WhOk9s) (print only), Illustrated by Madison Griffiths
+The Strumpet Diaries [Episode One](https://www.kajalmag.com/the-strumpet-diaries-episode-1/) and [Episode Two](https://www.kajalmag.com/the-strumpet-diaries-episode-2/), Kajal Magazine and [Episode Three](https://www.liminalmag.com/comic-sans/strumpet-diaries), Comic Sans, Illustrated by Madison Griffiths
 
 [Slumtree, Illustrated by Rachel Ang, The Lifted Brow](https://www.theliftedbrow.com/liftedbrow/2017/8/15/slumtree-by-tara-kenny-and-rachel-ang)
   
 **Interviews**
+[Author of Reality Squared: On Reality TV and Left Politics* Tom Syverson, Brooklyn Magazine](https://www.bkmag.com/2021/05/06/a-new-book-argues-that-reality-tv-is-the-postmodern-art-form-par-excellence/)
 
 [Poet Tommy Pico, Interview Magazine](https://www.interviewmagazine.com/culture/tommy-pico-native-american-beyonce-loving-poet)
 

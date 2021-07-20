@@ -28,7 +28,7 @@ The Strumpet Diaries [Episode One](https://www.kajalmag.com/the-strumpet-diaries
 [Slumtree, Illustrated by Rachel Ang, The Lifted Brow](https://www.theliftedbrow.com/liftedbrow/2017/8/15/slumtree-by-tara-kenny-and-rachel-ang)
   
 **Interviews**<br>
-[Author of Reality Squared: On Reality TV and Left Politics* Tom Syverson, Brooklyn Magazine](https://www.bkmag.com/2021/05/06/a-new-book-argues-that-reality-tv-is-the-postmodern-art-form-par-excellence/)
+[Author of *Reality Squared: On Reality TV and Left Politics* Tom Syverson, Brooklyn Magazine](https://www.bkmag.com/2021/05/06/a-new-book-argues-that-reality-tv-is-the-postmodern-art-form-par-excellence/)
 
 [Poet Tommy Pico, Interview Magazine](https://www.interviewmagazine.com/culture/tommy-pico-native-american-beyonce-loving-poet)
 

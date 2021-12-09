@@ -5,7 +5,7 @@ type: "writing"
 
 **Non-fiction: Culture, Reviews and Essays**
 
-[Succession review, The Saturday Paper](https://www.thesaturdaypaper.com.au/culture/television/2021/10/16/succession-season-3/163430280012660#hrd)
+[Succession review, The Saturday Paper](/img/succession-season-3-the-saturday-paper.pdf)
 
 [Gossip Girl review, The Saturday Paper](https://medium.com/the-saturday-paper/why-the-gossip-girl-reboot-is-propaganda-for-the-rich-eee38c926055)
 

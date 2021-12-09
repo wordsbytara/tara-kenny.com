@@ -5,19 +5,17 @@ type: "writing"
 
 **Non-fiction: Culture, Reviews and Essays**
 
+[Succession review, The Saturday Paper](https://www.thesaturdaypaper.com.au/culture/television/2021/10/16/succession-season-3/163430280012660#hrd)
+
+[Gossip Girl review, The Saturday Paper](https://medium.com/the-saturday-paper/why-the-gossip-girl-reboot-is-propaganda-for-the-rich-eee38c926055)
+
+[Brooklyn Psychedelic Society feature, Brooklyn Magazine](https://www.bkmag.com/2021/09/02/high-society-the-brooklyn-psychedelic-society-preaches-psychedelic-healing/)
+
 [Slurp It Up!, ](https://tarakenny.substack.com/) an always, fun never boring newsletter on pop culture, books and woo woo.
-
-[Busting Out, Frankie Magazine](https://www.frankie.com.au/article/issue-98-is-here-554193) (print only, [sample here](https://www.scribd.com/article/479561177/Busting-Out))
-
-[I was a poor kid at a wealthy private school. It gave me social mobility, but also a sense of shame, The Guardian](https://www.theguardian.com/education/2017/jun/18/i-was-a-poor-kid-at-a-wealthy-private-school-it-gave-me-social-mobility-but-also-a-sense-of-shame)
 
 [Too Hot to Handle, Paper Magazine](https://www.papermag.com/too-hot-to-handle-netflix-quarantine-2645894899.html)
 
 [Michelle De Kretser’s The Life to Come, Kajal Magazine](https://www.google.com/url?q=https://www.kajalmag.com/michelle-de-kretsers-the-life-to-come/&sa=D&source=editors&ust=1613398349487000&usg=AOvVaw0OI266Cp5b-6cRb2p8kQzU)
-
-[Manufacturing hipsterism: behind “Melbourne Man-gate”, Overland](https://overland.org.au/2016/10/manufacturing-hipsterism-behind-melbourne-man-gate/) 
-
-[The Vanduuras, Scum Mag](https://www.scum-mag.com/the-vanduuras/) 
 
 [My Complex Relationship with Selfies, Liminal](https://www.liminalmag.com/blog/my-complex-relationship-with-selfies?rq=tara%20kenny)
 
@@ -37,5 +35,4 @@ The Strumpet Diaries [Episode One](https://www.kajalmag.com/the-strumpet-diaries
 [Writer and Editor Emma Do, Liminal](https://www.liminalmag.com/interviews/emma-do)
 
 [Sri Lankan LGBTIQ Activist Rosanna Flamer-Caldera, Kajal Magazine](https://www.kajalmag.com/rosanna-flamer-caldera-sri-lanka-lgbtq/)
-
 

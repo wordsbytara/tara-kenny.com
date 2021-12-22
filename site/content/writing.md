@@ -5,9 +5,13 @@ type: "writing"
 
 **Non-fiction: Culture, Reviews and Essays**
 
-[Succession review, The Saturday Paper](/img/succession-season-3-the-saturday-paper.pdf)
+[Succession review, The Saturday Paper](/articles/succession-season-3-saturday-paper.pdf)
 
-[Gossip Girl review, The Saturday Paper](https://medium.com/the-saturday-paper/why-the-gossip-girl-reboot-is-propaganda-for-the-rich-eee38c926055)
+[Gossip Girl review, The Saturday Paper](/articles/gossip-girl-season-3-review.pdf)
+
+[How to Seduce a Ghost, Gossamer](/articles/how-to-seduce-a-ghost.jpg)
+
+[The Eyes of Tammy Faye review, The Saturday Paper](/articles/the-eyes-of-tammy-faye-review.pdf)
 
 [Brooklyn Psychedelic Society feature, Brooklyn Magazine](https://www.bkmag.com/2021/09/02/high-society-the-brooklyn-psychedelic-society-preaches-psychedelic-healing/)
 

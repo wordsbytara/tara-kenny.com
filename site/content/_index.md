@@ -5,7 +5,7 @@ description: >-
 
 
   Subscribe to my newsletter [Slurp It Up!](https://tarakenny.substack.com/),
-  follow me [@slurpy_mogul ](https://www.instagram.com/slurpy_mogul/)and
+  follow me [@crypto_wag](https://www.instagram.com/crypto_wag/)and
   [@wordsbytara](https://twitter.com/wordsbytara) and email me at
   wordsbytara@gmail.com.
 ---

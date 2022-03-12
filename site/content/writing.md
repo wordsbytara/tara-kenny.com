@@ -5,6 +5,8 @@ type: "writing"
 
 **Non-fiction: Culture, Reviews and Essays**
 
+[Desperate Housewives review, The Guardian](https://www.theguardian.com/culture/2022/jan/10/desperate-housewives-soapy-superbly-acted-and-still-fun-nearly-20-years-on)
+
 [Succession review, The Saturday Paper](/articles/succession-season-3-saturday-paper.pdf)
 
 [Gossip Girl review, The Saturday Paper](/articles/gossip-girl-season-3-review.pdf)
@@ -30,6 +32,9 @@ The Strumpet Diaries [Episode One](https://www.kajalmag.com/the-strumpet-diaries
 [Slumtree, Illustrated by Rachel Ang, The Lifted Brow](https://www.theliftedbrow.com/liftedbrow/2017/8/15/slumtree-by-tara-kenny-and-rachel-ang)
   
 **Interviews**<br>
+
+[Director of Wyrmwood: Apocalypse, Kiah Roache-Turner, Complex](https://www.complex.com/pop-culture/wyrmwood-apocalypse-kiah-roache-turner-australian-zombie-film/)
+
 [Author of *Reality Squared: On Reality TV and Left Politics* Tom Syverson, Brooklyn Magazine](https://www.bkmag.com/2021/05/06/a-new-book-argues-that-reality-tv-is-the-postmodern-art-form-par-excellence/)
 
 [Poet Tommy Pico, Interview Magazine](https://www.interviewmagazine.com/culture/tommy-pico-native-american-beyonce-loving-poet)

@@ -24,7 +24,7 @@ a:visited {
   display: block
 }
 .home-img{
-  width: 100%;
+  max-width: 400px;
   padding-bottom: 10px;
   margin-top: 59px;
 }

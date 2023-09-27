@@ -11,7 +11,7 @@ type: "writing"
 
 [Andrew Tate for Girls: The New Wave of Woman Self-Help Gurus, *Dazed*] (https://www.dazeddigital.com/life-culture/article/59961/1/andrew-tate-for-girls-the-new-wave-of-woman-self-help-gurus)<br>
 
-[The New Psychedelic Aesthetic: A Millennial Takeover, *Dirt*] (Dirt - The New Psychedelic Aesthetic.pdf)<br>
+[The New Psychedelic Aesthetic: A Millennial Takeover, *Dirt*] (https://drive.google.com/file/d/1uMv5RREgYcT-9arhD_zrHaDhM-HZiCYe/view?usp=sharing)<br>
 
 [‘The Pop Star Disappeared’: How Platon Exposed Adele and Other Icons, *The Sydney Morning Herald*](https://www.smh.com.au/culture/art-and-design/the-pop-star-disappeared-how-platon-exposed-adele-and-other-icons-20230804-p5dtx8.html) <br>
 
@@ -35,7 +35,7 @@ type: "writing"
 
 [‘Bad Behaviour’ is a Lesson in Adolescent Cruelty, *The Monthly*] (https://www.themonthly.com.au/blog/tara-kenny/2023/21/2023/bad-behaviour-lesson-adolescent-cruelty)<br>
 
-[Greta Gerwig’s ‘Barbie’, *The Saturday Paper*] (Greta Gerwig’s Barbie _ The Saturday Paper.pdf)<br>
+[Greta Gerwig’s ‘Barbie’, *The Saturday Paper*] (https://drive.google.com/file/d/1nSjEaB6TwZxeoaADRzKOSYLB9BTrcwVk/view?usp=sharing)<br>
 
 
 **2022**<br>
@@ -75,11 +75,11 @@ type: "writing"
 
 [Tom Syverson: In Praise of Reality TV as Modern Art Par Excellence, *Brooklyn Magazine*](https://www.bkmag.com/2021/05/06/a-new-book-argues-that-reality-tv-is-the-postmodern-art-form-par-excellence/)<br>
 
-[Warring in the Shadows: ‘Succession’ Season Three, *The Saturday Paper*](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.tara-kenny.com/articles/succession-season-3-saturday-paper.pdf)<br>
+[Warring in the Shadows: ‘Succession’ Season Three, *The Saturday Paper*](https://drive.google.com/file/d/1bda7dBkHy1a5Ahd5EJ94FEqf4ciCev7K/view?usp=sharing)<br>
 
-[Super Rich Kids: ‘Gossip Girl’, *The Saturday Paper*](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.tara-kenny.com/articles/gossip-girl-season-3-review.pdf)<br>
+[Super Rich Kids: ‘Gossip Girl’, *The Saturday Paper*](https://www.tara-kenny.com/articles/gossip-girl-season-3-review.pdf)<br>
 
-[Gospel Untruths: ‘The Eyes of Tammy Faye’, *The Saturday Paper*](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.tara-kenny.com/articles/the-eyes-of-tammy-faye-review.pdf)<br>
+[Gospel Untruths: ‘The Eyes of Tammy Faye’, *The Saturday Paper*](https://www.tara-kenny.com/articles/the-eyes-of-tammy-faye-review.pdf)<br>
 
 [How to Seduce a Ghost, *Gossamer*](https://www.tara-kenny.com/articles/how-to-seduce-a-ghost.jpg)<br>
 

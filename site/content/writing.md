@@ -5,6 +5,8 @@ type: "writing"
 
 **2023**<br>
 
+[The Fierce Girl Gang Style of Sukeban Wrestling Takes New York, *Dazed*](https://www.dazeddigital.com/fashion/article/60948/1/the-sukeban-women-s-wrestling-fly-kicks-into-new-york-city)
+
 [The Messy Interpersonal Drama of Tiktok’s Doll Roleplay Community, *Dazed*] (https://www.dazeddigital.com/life-culture/article/60883/1/the-online-community-doll-roleplay-heal-themselves-barbie-sylvanian-families) <br>
 
 [New York’s New Chess Clubs Make it Hip to be Square, *The Guardian*] (https://www.theguardian.com/sport/2023/sep/13/new-york-gen-z-chess-clubs) <br>

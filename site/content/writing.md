@@ -2,8 +2,40 @@
 title: "Selected Writing"
 type: "writing"
 ---
+**2025**<br>
+
+
+
+[Television Reviews, *The Monthly*] (https://www.themonthly.com.au/author/tara-kenny)<br>
+
+
+
+[The Tyranny of the "Cool Mum", *The Guardian*](https://www.theguardian.com/commentisfree/2025/jan/03/i-thought-i-could-be-a-cool-mum-just-strap-my-baby-to-me-and-keep-living-life-as-usual-i-was-so-wrong)<br>
+
+
 
 **2024**<br>
+
+
+
+[Melbourne's Doula Scene, *The Paris End*] (https://drive.google.com/file/d/1S5kfxYseTEpShxcazylc4CNKBp2J3iQG/view?usp=sharing)<br>
+
+
+
+[Complex Cosmologies: Jodi Wille on Welcome Space Brothers, *MIFF Revue*] (https://miff.com.au/blog/9245/complex-cosmologies-jodi-wille-on-welcome-space-brothers)<br>
+
+
+
+[Good Cop, Bad Cop: Sandhya Suri's Santosh, *MIFF Revue*] (https://miff.com.au/blog/9231/good-cop-bad-cop-sandhya-suri-s-santosh)<br>
+
+
+
+[Love all! Wimbledon, the Delightfully Predictable Tennis Romcom at 20, *The Guardian*] (https://www.theguardian.com/film/article/2024/jul/03/wimbledon-movie-where-to-watch-streaming-cast-paul-bettany-kirsten-dunst-apple-tv-paramount)<br>
+
+
+
+[Careful What You Wish For: Tara Kenny on Britney Spears, Prince Harry and Paris Hilton, *Liminal*] (https://www.liminalmag.com/liminal-review-of-books/careful)<br>
+
 
 [Cabaret Spills City's Secret Love Stories, *The Age*] (https://www.theage.com.au/culture/theatre/knocks-on-dorm-rooms-trips-to-cinema-nova-and-other-ways-love-blooms-in-melbourne-20240118-p5ey8h.html)<br>
 

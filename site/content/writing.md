@@ -13,9 +13,17 @@ type: "writing"
 [The Tyranny of the "Cool Mum", *The Guardian*](https://www.theguardian.com/commentisfree/2025/jan/03/i-thought-i-could-be-a-cool-mum-just-strap-my-baby-to-me-and-keep-living-life-as-usual-i-was-so-wrong)<br>
 
 
+[Murray Bartlett profile: Nine Perfect Strangers season two, *Esquire Australia*] (https://www.esquire.com.au/murray-bartlett-nine-perfect-strangers-interview?page_data=1)<br>
+
+[Can AI teach us anything about our subconscious? I offered up my dreams to find out, *The Guardian*] (https://www.theguardian.com/commentisfree/2025/feb/14/can-ai-teach-us-anything-about-our-subconscious-i-offered-up-my-dreams-to-find-out)<br>
+
+[Interview with Suku Founder Chrissy Lafian, *Liminal*] (https://www.liminalmag.com/interviews/chrissy-lafian)<br>
+
 
 **2024**<br>
 
+
+[Patrick Brammall profile: Colin From Accounts season two, *Esquire Australia*] (https://www.esquire.com.au/colin-from-accounts-patrick-brammall-interview/)<br>
 
 
 [Melbourne's Doula Scene, *The Paris End*] (https://drive.google.com/file/d/1S5kfxYseTEpShxcazylc4CNKBp2J3iQG/view?usp=sharing)<br>
@@ -44,6 +52,8 @@ type: "writing"
 ['Expats' Drills Down on Hong Kong's Class Divide, *The Monthly*] (https://www.themonthly.com.au/issue/2023/december/tara-kenny/curse)<br>
 
 **2023**<br>
+
+[Why does my TikTok algorithm want me to 'disappear and shock them all?, *i-D*] (https://i-d.co/article/disappear-and-shock-them-all-tiktok-makeover-trend/)<br>
 
 [Zines Go Mainstream at Brooklyn Museum, *Brooklyn Magazine*] (https://www.bkmag.com/2023/11/16/zines-go-mainstream-at-brooklyn-museum/) <br>
 
